@@ -1,244 +1,20 @@
-
-
 #EXTM3U
 
-#EXTINF:-1, Globo Nordeste
-http://clinicalmedic.ga:8880/live/ST8mJXoisa01/4Dnp63Bwytza/200.ts?ufjd8
- 
-#EXTINF:-1,REDE TV 
-http://evp.mm.uol.com.br:1935/redetv2/_definst_/redetv2/chunklist.m3u8?wowzasessionid=211101561
- 
-#EXTINF:-1,SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
- 
-#EXTINF:-1,RECORD 
-http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_360_av-b.m3u8?sd=10&rebase=on
+########################### Gospel
 
-#EXTINF:-1,TV DIARIO 
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
- 
-#EXTINF:-1,TV CULTURA 
-http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
- 
-#EXTINF:-1,TV GAZETA on
-http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
- 
-#EXTINF:-1,TV ESCOLA 
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
- 
-#EXTINF:-1,REDE MEIO DO NORTE 
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
- 
-#EXTINF:-1,REDE BRASIL
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw",PUC TV
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-
-#EXTINF:-1 tvg-logo="", Combate
-http://207.154.231.111/loadbalance/slv1/chunks.m3u8?pxAuth=wWFNPTApjqXjwfMEMtsZu4vJAJF9HHqh
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png",SporTV
-http://95.141.35.86:8081/look/sportv/playlist.m3u8?PEDROJUNIORTUTORIAIS
- 
-#EXTINF:-1,ESPN 
-http://5.79.68.138:8081/look/espnbr/playlist.m3u8
- 
-#EXTINF:-1,ESPN BRASIL
-http://95.141.35.193:8081/look/espnbrr/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,SPORTV
-http://95.141.32.213:8081/look/sportv/playlist.m3u8?PEDROJUNIORTUTORIAIS
- 
-#EXTINF:-1,ESPORTE INTERATIVO
-http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8
- 
-#EXTINF:-1,EI MAXX
-http://5.79.68.138:8081/look/eimax/playlist.m3u8
- 
-#EXTINF:-1,EI MAXX 2
-http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8
- 
-#EXTINF:-1,FOX SPORTS
-http://95.211.149.215:8081/look/foxsport/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FoxSports HD
-http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FoxSports SD
-http://5.79.68.138:8081/look/foxsport/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FoxSports 2 HD
-http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
- 
-#EXTINF:-1,FOX SPORTS 2 
-http://5.79.68.138:8081/look/foxsport/playlist.m3u8
- 
-#EXTINF:-1,COMBATE
-http://95.211.149.215:8081/look/combate/playlist.m3u8
- 
-#EXTINF:-1,ALL SPORTS TV
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
- 
-#EXTINF:-1,FOX
-http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist_w1397730488.m3u8
- 
-#EXTINF:-1 tvg-logo="https://lut.im/ogVGfv4QCU/HoTyEvQGcwNSJ3eG.png" group-title="FILMES", MaxUp
-http://duost.ddns.me:19790/live/DSK94cdypL/nnnrhnV1Nv/86.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.vcfaz.tv/img/logo/megapix.jpg", Mega Pix
-http://starbr.digitalgroup.me:15000/live/25025/25025/1004.m3u8
-
-#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png", TCM
-http://starbr.digitalgroup.me:15000/live/25025/25025/925.m3u8
-
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w1698661116.m3u8
- 
-#EXTINF:-1,TNT
-http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/chunklist_w765139461.m3u8
- 
-#EXTINF:-1,TTELECINE ACTION
-http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
- 
-#EXTINF:-1,TV NA ILHA
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/woxJvM" group-title=",HISTORY
-http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/AXN.jpg" group-title=",AXN 
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/OngVqc",HBO 2 
-http://187.49.86.238:10000/bysid/69
-
-#EXTINF:-1 tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png",TNT
-http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
- 
-#EXTINF:-1,FILMES E SERIES
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
-
-#EXTINF:-1,DISNEY XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist_w1378600076.m3u8
- 
-#EXTINF:-1,NICK
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
- 
-#EXTINF:-1,RETRO CARTOON
-http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
- 
-#EXTINF:-1,CARTOON NETWORK
-http://95.211.149.215:8081/look/cartoon/playlist.m3u8
- 
-#EXTINF:-1,ANIME TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
- 
-#EXTINF:-1,DESENHOS
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
- 
-#EXTINF:-1,DISCOVERY KIDS
-http://5.79.68.138:8081/look/discoverykids/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/7Y4hBP" group-title=",GLOOB (EM MANUTEN플O)
-http://187.49.86.238:10000/bysid/94
-
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png",Multishow
-http://95.141.32.213:8081/look/eimaxs/playlist.m3u8?PEDROJUNIORTUTORIAIS
- 
-#EXTINF:-1,MIX TV
-http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
- 
-#EXTINF:-1,HIT TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
- 
-#EXTINF:-1,HOT MUSIC
-http://wow01.105.net/live/rmc1/playlist.m3u8
- 
-#EXTINF:-1,FISH PLUS
-http://streamingbr.com.br:1935/st87-live/st87-live_720p/livestream.m3u8
- 
-#EXTINF:-1.GLOBO NEWS
-http://tv.ec.cx:1935/redecanais-stream-globo/myStream/playlist.m3u8
- 
-#EXTINF:-1,RECORD NEWS
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
- 
-#EXTINF:-1,BH NEWS
-http://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/ig4JdX",BAND NEWS (EM MANUTEN플O)
-http://5.79.68.138:8081/look/bandnews/playlist.m3u8
- 
-#EXTINF:-1,TV EVANGELIZAR
-rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
- 
-#EXTINF:-1,TV APARECIDA
-http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
- 
-#EXTINF:-1,CANÇAO NOVA
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
- 
-#EXTINF:-1 tvg-logo="tvg-logo="http://s20.postimg.org/s88or4re5/tvcinec.png",TV CINEC
-http://104.156.60.74:1935/tvcinec/tvcinec/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://s14.postimg.org/k9exx981d/Rede_S_culo_21.png",REDE SECULO 21
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://lut.im/wJnpc56UYN/SxZIwjQckIaSaQaX.png",TV NOVO TEMPO
-http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
-
-#EXTINF:-1,SPORT
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
- 
-#EXTINF:-1,SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
- 
-#EXTINF:-1,REAL MADRI TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
- 
-#EXTINF:-1,TELPI 2
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
- 
-#EXTINF:-1,SkKY SPORTS
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
- 
-#EXTINF:-1,OLYMPIC CHANNEL
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
- 
-#EXTINF:1,NOVA CINEMA
-http://174.36.220.217:5000/live/120/120.m3u8
- 
-#EXTINF:-1,3 ABN
-http://moiptvus-lh.akamaihd.net:80/i/3abnlive_1@328342/index_800_av-p.m3u8
- 
-#EXTINF:-1,3 ABN KIDS
-http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-p.m3u8
- 
-#EXTINF:-1,DW
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
- 
-#EXTINF:-1,FOX NEWS
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
- 
-#EXTINF:-1,FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-################################ Gospel
-
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel", Santu嫫io de Aparecida Altar Central
+#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Altar Central
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel", Aparecida - Capela do Sant疄simo
+#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela do Santíssimo
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Aparecida - Capela de S緌 Jos�
+#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela de São José
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Aparecida - Nicho
+#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Nicho
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Aparecida - Vis緌 Externa
+#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Visão Externa
 http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
@@ -300,17 +76,17 @@ http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record - Tv Gazeta MT
 http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record - Tv Gazeta MT op2
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record - Miramar Angola
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://simpleicon.com/wp-content/uploads/tv.png" group-title="Canais Abertos", Record News
-http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3a211dd7faf0d079ae8a56582756ba78.jpg" group-title="TV/FECHADA",DISCOVERY  CHANNEL
 http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
