@@ -2,33 +2,27 @@
 
 ########################### Gospel
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Altar Central
+#EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Altar Central
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela do Santíssimo
+#EXTINF:-1 tvg-id="AparecidaCS" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela do Santíssimo
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela de São José
+#EXTINF:-1 tvg-id="AparecidaCSJ" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela de São José
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Nicho
+#EXTINF:-1 tvg-id="AparecidaN" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Nicho
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Visão Externa
+#EXTINF:-1 tvg-id="AparecidaVE" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Visão Externa
 http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
 
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
+#EXTINF:-1 tvg-id="AparecidaTV" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Aparecida op2" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida op2
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
+#EXTINF:-1 tvg-id="RedeVida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida op2
+https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida
-http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida op2
-rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?IGOR_RANGEL
 
 
 
