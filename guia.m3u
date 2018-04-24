@@ -20,8 +20,11 @@ http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
 #EXTINF:-1 tvg-id="AparecidaTV" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeVida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida op2
+#EXTINF:-1 tvg-id="RedeVida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida
 https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEvang" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Gospel", TV Evangelizar op2
+http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 
 
 
@@ -49,8 +52,6 @@ http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Gospel", TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Gospel", TV Evangelizar op2
-http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 
 
 
