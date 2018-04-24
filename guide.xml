@@ -1,0 +1,3014 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AparecidaAC">
+    <display-name lang="pt">Cam. Aparecida Altar Central </display-name>    
+  </channel>
+  <channel id="AparecidaCS">
+    <display-name lang="pt">Cam. Aparecida Capela Santíssimo </display-name>    
+  </channel>
+  <channel id="AparecidaCSJ">
+    <display-name lang="pt">Cam. Aparecida Capela de São José </display-name>    
+  </channel>
+  <channel id="AparecidaN">
+    <display-name lang="pt">Cam. Aparecida Nicho </display-name>    
+  </channel>
+    
+
+
+<channel id="RedeVida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AparecidaTV">
+    <display-name lang="pt">Tv Aparecida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TVEvang">
+    <display-name lang="pt">TV Evangelizar</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvevangelizar.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CancaoN">
+    <display-name lang="pt">TV Canção Nova</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede21">
+    <display-name lang="pt">Rede Século 21</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180424000000 -0300" stop="20180424020000 -0300" channel="RedeVida">
+    <title lang="pt">Conta Comigo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424020000 -0300" stop="20180424023000 -0300" channel="RedeVida">
+    <title lang="pt">Jornal da Vida</title>
+    <desc lang="pt">O “Jornal da Vida” apresenta para a sociedade a boa notícia, a informação, acompanhada de esperança e soluções(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424023000 -0300" stop="20180424025500 -0300" channel="RedeVida">
+    <title lang="pt">Vida Esportiva</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424025500 -0300" stop="20180424030000 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424030000 -0300" stop="20180424050000 -0300" channel="RedeVida">
+    <title lang="pt">Conta Comigo</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424050000 -0300" stop="20180424053000 -0300" channel="RedeVida">
+    <title lang="pt">Telecurso</title>
+    <desc lang="pt">Por meio das matérias curriculares, o cotidiano é posto no centro das ações pedagógicas. É um espaço colaborativo de aprendizagem e entretenimento(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424053000 -0300" stop="20180424054500 -0300" channel="RedeVida">
+    <title lang="pt">Mãe Maria</title>
+    <desc lang="pt">Dom Walmor conduz um encontro de oração e reflexão sobre o texto do evangelho proposto pela liturgia de cada dia(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424054500 -0300" stop="20180424060000 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424060000 -0300" stop="20180424062500 -0300" channel="RedeVida">
+    <title lang="pt">Santo Terço dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Os filhos do Pai Eterno têm agora mais um horário para rezar. O “Santo Terço dos Filhos do Pai Eterno” é conduzido pelo Padre Robson de Oliveira(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424062500 -0300" stop="20180424063000 -0300" channel="RedeVida">
+    <title lang="pt">O Pão Nosso</title>
+    <desc lang="pt">Reflexões do Pe. Fernando J. C. Cardoso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424063000 -0300" stop="20180424064500 -0300" channel="RedeVida">
+    <title lang="pt">Encontro com Cristo</title>
+    <desc lang="pt">Um dos grandes pregadores e escritores da atualidade, o Padre Alberto Gambarini apresenta o "Encontro com Cristo"(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424064500 -0300" stop="20180424065500 -0300" channel="RedeVida">
+    <title lang="pt">A Palavra do Arcebispo</title>
+    <sub-title lang="pt">Dom Paulo Mendes Peixoto</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424065500 -0300" stop="20180424074500 -0300" channel="RedeVida">
+    <title lang="pt">Missa no Santuário do Divino Pai Eterno: Trindade/GO</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424074500 -0300" stop="20180424080000 -0300" channel="RedeVida">
+    <title lang="pt">Programa do Pai Eterno</title>
+    <desc lang="pt">Fique sabendo sobre a obra do Divino Pai Eterno através de entrevistas e matérias que falarão tudo sobre a história, a missão e o futuro do projeto do Divino Pai Eterno(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424080000 -0300" stop="20180424080500 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424080500 -0300" stop="20180424082500 -0300" channel="RedeVida">
+    <title lang="pt">Encontro com Nossa Senhora dos Aflitos</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424082500 -0300" stop="20180424083000 -0300" channel="RedeVida">
+    <title lang="pt">A Cura Pela Palavra</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424083000 -0300" stop="20180424090000 -0300" channel="RedeVida">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <desc lang="pt">Os fiéis acompanham os momentos de oração pela graça que desejam alcançar(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424090000 -0300" stop="20180424100000 -0300" channel="RedeVida">
+    <title lang="pt">Missa de Nossa Senhora da Piedade</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424100000 -0300" stop="20180424103000 -0300" channel="RedeVida">
+    <title lang="pt">Filhos do Pai Eterno</title>
+    <desc lang="pt">Direto do santuário do divino Pai eterno, de Trindade (GO), acompanhe a novena perpétua dentro de um dos templos mais conhecidos e importantes do Brasil, com a transmissão da RedeVida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424103000 -0300" stop="20180424105000 -0300" channel="RedeVida">
+    <title lang="pt">Programa do Pai Eterno</title>
+    <desc lang="pt">Fique sabendo sobre a obra do Divino Pai Eterno através de entrevistas e matérias que falarão tudo sobre a história, a missão e o futuro do projeto do Divino Pai Eterno(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424105000 -0300" stop="20180424111500 -0300" channel="RedeVida">
+    <title lang="pt">Ateliê na TV</title>
+    <desc lang="pt">De segunda a sexta-feira, o publicitário Dotan Mayo ensina o passo a passo de rápidos artesanatos que mantêm os telespectadores atualizados sobre as novidades e tendências do mercado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424111500 -0300" stop="20180424120000 -0300" channel="RedeVida">
+    <title lang="pt">Escolhas da Vida</title>
+    <desc lang="pt">Para quem vive com pressa, que se sente aflito com as notícias do mundo. Para quem não sabe qual caminho escolher. Dalcides Biscalquim apresenta de segunda a sexta-feira o programa “Escolhas da Vida”(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424120000 -0300" stop="20180424123000 -0300" channel="RedeVida">
+    <title lang="pt">Rosário da Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A RedeVida junto com o Padre Juarez de Castro, convidam você a oferecer diariamente uma rosa para Maria, no programa Rosário da Vida. Venha, com a  RedeVida dedicar mais uma parte do seu dia a Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424123000 -0300" stop="20180424143000 -0300" channel="RedeVida">
+    <title lang="pt">Vida Melhor (Ao Vivo)</title>
+    <desc lang="pt">Artistas de todas as áreas, especialistas em saúde, técnicos de diversos segmentos estão em quadros diferenciados, abordando assuntos de saúde, esporte, alimentação e cultura(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424143000 -0300" stop="20180424150000 -0300" channel="RedeVida">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <desc lang="pt">Os fiéis acompanham os momentos de oração pela graça que desejam alcançar(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424150000 -0300" stop="20180424161500 -0300" channel="RedeVida">
+    <title lang="pt">Hora da Família</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424161500 -0300" stop="20180424170000 -0300" channel="RedeVida">
+    <title lang="pt">Escolhas da Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Para quem vive com pressa, que se sente aflito com as notícias do mundo. Para quem não sabe qual caminho escolher. Dalcides Biscalquim apresenta de segunda a sexta-feira o programa “Escolhas da Vida”(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424170000 -0300" stop="20180424173000 -0300" channel="RedeVida">
+    <title lang="pt">Filhos do Pai Eterno</title>
+    <desc lang="pt">Direto do santuário do divino Pai eterno, de Trindade (GO), acompanhe a novena perpétua dentro de um dos templos mais conhecidos e importantes do Brasil, com a transmissão da RedeVida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424173000 -0300" stop="20180424175000 -0300" channel="RedeVida">
+    <title lang="pt">Encontro com Cristo</title>
+    <desc lang="pt">Um dos grandes pregadores e escritores da atualidade, o Padre Alberto Gambarini apresenta o "Encontro com Cristo"(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424175000 -0300" stop="20180424180000 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424180000 -0300" stop="20180424183000 -0300" channel="RedeVida">
+    <title lang="pt">O Santo Terço Doloroso</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424183000 -0300" stop="20180424190000 -0300" channel="RedeVida">
+    <title lang="pt">JCTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Notícias da Igreja no Brasil e no Mundo. A atualidade, o dinamismo e a valorização dos acontecimentos primordiais da Igreja Católica em todo o mundo. Meio importantíssimo de promoção e divulgação dos fatos da comunidade cristã(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424190000 -0300" stop="20180424191000 -0300" channel="RedeVida">
+    <title lang="pt">Minuto do Laicato</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424191000 -0300" stop="20180424200000 -0300" channel="RedeVida">
+    <title lang="pt">Missa no Santuário da Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Missa celebrada ao vivo, de domingo à sexta-feira, diretamente do Santuário da Vida, em São José do Rio Preto - SP - com participação de diversas comunidades de todo o Brasil(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424200000 -0300" stop="20180424203000 -0300" channel="RedeVida">
+    <title lang="pt">Filhos do Pai Eterno</title>
+    <desc lang="pt">Direto do santuário do divino Pai eterno, de Trindade (GO), acompanhe a novena perpétua dentro de um dos templos mais conhecidos e importantes do Brasil, com a transmissão da RedeVida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424203000 -0300" stop="20180424230000 -0300" channel="RedeVida">
+    <title lang="pt">Viva a Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa que prega a paz, a alegria e o "Amor Sem Limites" que Deus tem por cada um de nós(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424230000 -0300" stop="20180424233000 -0300" channel="RedeVida">
+    <title lang="pt">Jornal da Vida (Ao Vivo)</title>
+    <desc lang="pt">O “Jornal da Vida” apresenta para a sociedade a boa notícia, a informação, acompanhada de esperança e soluções(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424233000 -0300" stop="20180424235000 -0300" channel="RedeVida">
+    <title lang="pt">Vida Esportiva</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424235000 -0300" stop="20180424235500 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424235500 -0300" stop="20180425000000 -0300" channel="RedeVida">
+    <title lang="pt">Minuto do Laicato</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425000000 -0300" stop="20180425020000 -0300" channel="RedeVida">
+    <title lang="pt">Conta Comigo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425020000 -0300" stop="20180425023000 -0300" channel="RedeVida">
+    <title lang="pt">Jornal da Vida</title>
+    <desc lang="pt">O “Jornal da Vida” apresenta para a sociedade a boa notícia, a informação, acompanhada de esperança e soluções(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425023000 -0300" stop="20180425025500 -0300" channel="RedeVida">
+    <title lang="pt">Vida Esportiva</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425025500 -0300" stop="20180425030000 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425030000 -0300" stop="20180425050000 -0300" channel="RedeVida">
+    <title lang="pt">Conta Comigo</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425050000 -0300" stop="20180425053000 -0300" channel="RedeVida">
+    <title lang="pt">Telecurso</title>
+    <desc lang="pt">Por meio das matérias curriculares, o cotidiano é posto no centro das ações pedagógicas. É um espaço colaborativo de aprendizagem e entretenimento(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425053000 -0300" stop="20180425054500 -0300" channel="RedeVida">
+    <title lang="pt">Mãe Maria</title>
+    <desc lang="pt">Dom Walmor conduz um encontro de oração e reflexão sobre o texto do evangelho proposto pela liturgia de cada dia(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425054500 -0300" stop="20180425060000 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425060000 -0300" stop="20180425062500 -0300" channel="RedeVida">
+    <title lang="pt">Santo Terço dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Os filhos do Pai Eterno têm agora mais um horário para rezar. O “Santo Terço dos Filhos do Pai Eterno” é conduzido pelo Padre Robson de Oliveira(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425062500 -0300" stop="20180425063000 -0300" channel="RedeVida">
+    <title lang="pt">O Pão Nosso</title>
+    <desc lang="pt">Reflexões do Pe. Fernando J. C. Cardoso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425063000 -0300" stop="20180425064500 -0300" channel="RedeVida">
+    <title lang="pt">Encontro com Cristo</title>
+    <desc lang="pt">Um dos grandes pregadores e escritores da atualidade, o Padre Alberto Gambarini apresenta o "Encontro com Cristo"(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425064500 -0300" stop="20180425065500 -0300" channel="RedeVida">
+    <title lang="pt">Palavra do Cardeal</title>
+    <sub-title lang="pt">Dom Orani João Tempesta</sub-title>
+    <desc lang="pt">O Cardeal de São Sebastião do Rio de Janeiro, dom Orani João Tempesta passa a sua mensagem de fé ao telespectador da RedeVida, comentando trechos da Bíblia em “Palavra do Cardeal”(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425065500 -0300" stop="20180425074500 -0300" channel="RedeVida">
+    <title lang="pt">Missa da Fazenda da Esperança</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Acompanhe a missa da Fazenda da Esperança, direto de Guaratinguetá, cidade onde teve início o projeto Fazenda da Esperança(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425074500 -0300" stop="20180425080000 -0300" channel="RedeVida">
+    <title lang="pt">Programa do Pai Eterno</title>
+    <desc lang="pt">Fique sabendo sobre a obra do Divino Pai Eterno através de entrevistas e matérias que falarão tudo sobre a história, a missão e o futuro do projeto do Divino Pai Eterno(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425080000 -0300" stop="20180425080500 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425080500 -0300" stop="20180425082500 -0300" channel="RedeVida">
+    <title lang="pt">Encontro com Nossa Senhora dos Aflitos</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425082500 -0300" stop="20180425083000 -0300" channel="RedeVida">
+    <title lang="pt">A Cura Pela Palavra</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425083000 -0300" stop="20180425090000 -0300" channel="RedeVida">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <desc lang="pt">Os fiéis acompanham os momentos de oração pela graça que desejam alcançar(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425090000 -0300" stop="20180425100000 -0300" channel="RedeVida">
+    <title lang="pt">Missa no Santuário do Pai Eterno</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425100000 -0300" stop="20180425103000 -0300" channel="RedeVida">
+    <title lang="pt">Filhos do Pai Eterno</title>
+    <desc lang="pt">Direto do santuário do divino Pai eterno, de Trindade (GO), acompanhe a novena perpétua dentro de um dos templos mais conhecidos e importantes do Brasil, com a transmissão da RedeVida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425103000 -0300" stop="20180425105000 -0300" channel="RedeVida">
+    <title lang="pt">Programa do Pai Eterno</title>
+    <desc lang="pt">Fique sabendo sobre a obra do Divino Pai Eterno através de entrevistas e matérias que falarão tudo sobre a história, a missão e o futuro do projeto do Divino Pai Eterno(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425105000 -0300" stop="20180425111500 -0300" channel="RedeVida">
+    <title lang="pt">Ateliê na TV</title>
+    <desc lang="pt">De segunda a sexta-feira, o publicitário Dotan Mayo ensina o passo a passo de rápidos artesanatos que mantêm os telespectadores atualizados sobre as novidades e tendências do mercado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425111500 -0300" stop="20180425120000 -0300" channel="RedeVida">
+    <title lang="pt">Escolhas da Vida</title>
+    <desc lang="pt">Para quem vive com pressa, que se sente aflito com as notícias do mundo. Para quem não sabe qual caminho escolher. Dalcides Biscalquim apresenta de segunda a sexta-feira o programa “Escolhas da Vida”(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425120000 -0300" stop="20180425123000 -0300" channel="RedeVida">
+    <title lang="pt">Rosário da Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A RedeVida junto com o Padre Juarez de Castro, convidam você a oferecer diariamente uma rosa para Maria, no programa Rosário da Vida. Venha, com a  RedeVida dedicar mais uma parte do seu dia a Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425123000 -0300" stop="20180425143000 -0300" channel="RedeVida">
+    <title lang="pt">Vida Melhor (Ao Vivo)</title>
+    <desc lang="pt">Artistas de todas as áreas, especialistas em saúde, técnicos de diversos segmentos estão em quadros diferenciados, abordando assuntos de saúde, esporte, alimentação e cultura(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425143000 -0300" stop="20180425150000 -0300" channel="RedeVida">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <desc lang="pt">Os fiéis acompanham os momentos de oração pela graça que desejam alcançar(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425150000 -0300" stop="20180425161500 -0300" channel="RedeVida">
+    <title lang="pt">Hora da Família</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425161500 -0300" stop="20180425170000 -0300" channel="RedeVida">
+    <title lang="pt">Escolhas da Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Para quem vive com pressa, que se sente aflito com as notícias do mundo. Para quem não sabe qual caminho escolher. Dalcides Biscalquim apresenta de segunda a sexta-feira o programa “Escolhas da Vida”(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425170000 -0300" stop="20180425173000 -0300" channel="RedeVida">
+    <title lang="pt">Filhos do Pai Eterno</title>
+    <desc lang="pt">Direto do santuário do divino Pai eterno, de Trindade (GO), acompanhe a novena perpétua dentro de um dos templos mais conhecidos e importantes do Brasil, com a transmissão da RedeVida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425173000 -0300" stop="20180425175000 -0300" channel="RedeVida">
+    <title lang="pt">Encontro com Cristo</title>
+    <desc lang="pt">Um dos grandes pregadores e escritores da atualidade, o Padre Alberto Gambarini apresenta o "Encontro com Cristo"(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425175000 -0300" stop="20180425180000 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425180000 -0300" stop="20180425183000 -0300" channel="RedeVida">
+    <title lang="pt">O Santo Terço Glorioso</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425183000 -0300" stop="20180425190000 -0300" channel="RedeVida">
+    <title lang="pt">JCTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Notícias da Igreja no Brasil e no Mundo. A atualidade, o dinamismo e a valorização dos acontecimentos primordiais da Igreja Católica em todo o mundo. Meio importantíssimo de promoção e divulgação dos fatos da comunidade cristã(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425190000 -0300" stop="20180425191000 -0300" channel="RedeVida">
+    <title lang="pt">Minuto do Laicato</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425191000 -0300" stop="20180425200000 -0300" channel="RedeVida">
+    <title lang="pt">Missa no Santuário da Vida</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Missa celebrada ao vivo, de domingo à sexta-feira, diretamente do Santuário da Vida, em São José do Rio Preto - SP - com participação de diversas comunidades de todo o Brasil(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425200000 -0300" stop="20180425203000 -0300" channel="RedeVida">
+    <title lang="pt">Filhos do Pai Eterno</title>
+    <desc lang="pt">Direto do santuário do divino Pai eterno, de Trindade (GO), acompanhe a novena perpétua dentro de um dos templos mais conhecidos e importantes do Brasil, com a transmissão da RedeVida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425203000 -0300" stop="20180425220000 -0300" channel="RedeVida">
+    <title lang="pt">Redevida Evangeliza</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425220000 -0300" stop="20180425230000 -0300" channel="RedeVida">
+    <title lang="pt">Frente A Frente (Ao Vivo) DF</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425230000 -0300" stop="20180425233000 -0300" channel="RedeVida">
+    <title lang="pt">Jornal da Vida (Ao Vivo)</title>
+    <desc lang="pt">O “Jornal da Vida” apresenta para a sociedade a boa notícia, a informação, acompanhada de esperança e soluções(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425233000 -0300" stop="20180425235000 -0300" channel="RedeVida">
+    <title lang="pt">Vida Esportiva</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425235000 -0300" stop="20180425235500 -0300" channel="RedeVida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425235500 -0300" stop="20180426000000 -0300" channel="RedeVida">
+    <title lang="pt">Minuto do Laicato</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424000000 -0300" stop="20180424010000 -0300" channel="AparecidaTV">
+    <title lang="pt">Medalhão.com</title>
+    <desc lang="pt">Infocomercial(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424010000 -0300" stop="20180424030000 -0300" channel="AparecidaTV">
+    <title lang="pt">Puriflora</title>
+    <desc lang="pt">Infomerciais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424030000 -0300" stop="20180424034500 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424034500 -0300" stop="20180424040000 -0300" channel="AparecidaTV">
+    <title lang="pt">Cinema da Fé: João Paulo II</title>
+    <desc lang="pt">Em processo de beatificação pela Igreja Católica, Karol Wojtyla foi um dos Papas mais influentes e amados de todos os tempos, dedicando 26 anos de vida ao pontificado(n)</desc>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424040000 -0300" stop="20180424050000 -0300" channel="AparecidaTV">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424050000 -0300" stop="20180424053000 -0300" channel="AparecidaTV">
+    <title lang="pt">Telecurso Técnico Médio</title>
+    <desc lang="pt">Amplie seus conhecimentos e habilidades com o mais tradicional programa de TV voltado para a educação e qualificação profissional, o Telecurso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424053000 -0300" stop="20180424060000 -0300" channel="AparecidaTV">
+    <title lang="pt">Telecurso Técnico Médio</title>
+    <desc lang="pt">Amplie seus conhecimentos e habilidades com o mais tradicional programa de TV voltado para a educação e qualificação profissional, o Telecurso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424060000 -0300" stop="20180424064000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424064000 -0300" stop="20180424070000 -0300" channel="AparecidaTV">
+    <title lang="pt">Cinema da Fé: João Paulo II</title>
+    <desc lang="pt">Em processo de beatificação pela Igreja Católica, Karol Wojtyla foi um dos Papas mais influentes e amados de todos os tempos, dedicando 26 anos de vida ao pontificado(n)</desc>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424070000 -0300" stop="20180424080000 -0300" channel="AparecidaTV">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424080000 -0300" stop="20180424085000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424085000 -0300" stop="20180424090000 -0300" channel="AparecidaTV">
+    <title lang="pt">Ao Redor do Altar</title>
+    <desc lang="pt">Ao redor do altar. Coloque suas intenções para a Missa de Aparecida, direto do Santuário Nacional(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424090000 -0300" stop="20180424100000 -0300" channel="AparecidaTV">
+    <title lang="pt">Missa de Aparecida</title>
+    <sub-title lang="pt">Santuário Nacional</sub-title>
+    <desc lang="pt">Acompanhe a missa de Aparecida, ao vivo, direto do Santuário Nacional. Possui recurso CC(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424100000 -0300" stop="20180424120000 -0300" channel="AparecidaTV">
+    <title lang="pt">Bem-Vindo, Romeiro!</title>
+    <desc lang="pt">José Eymard e Bianca apresentam o universo do romeiro e levam o Santuário Nacional de Aparecida até a sua casa. Possui recurso CC(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424120000 -0300" stop="20180424123000 -0300" channel="AparecidaTV">
+    <title lang="pt">Brasil Esportes</title>
+    <desc lang="pt">As principais notícias do esporte você acompanha na programação da TV Aparecida(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424123000 -0300" stop="20180424130000 -0300" channel="AparecidaTV">
+    <title lang="pt">Tj Aparecida: Dia de São Cristóvão</title>
+    <desc lang="pt">Acompanhe este especial do dia de São Cristóvão e as principais notícias da igreja, do Brasil e do mundo. Mantenha-se informado através de um jornalismo de qualidade. Possui recurso CC(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424130000 -0300" stop="20180424140000 -0300" channel="AparecidaTV">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424140000 -0300" stop="20180424150000 -0300" channel="AparecidaTV">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424150000 -0300" stop="20180424150500 -0300" channel="AparecidaTV">
+    <title lang="pt">Consagração: Com Papa Francisco</title>
+    <desc lang="pt">Papa Francisco celebra a consagração à Nossa Senhora(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424150500 -0300" stop="20180424173000 -0300" channel="AparecidaTV">
+    <title lang="pt">Santa Receita</title>
+    <desc lang="pt">Claudete Troiano recebe convidados especiais e fala sobre saúde, moda, comportamento, artesantos, receitas e muito mais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424173000 -0300" stop="20180424180000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424180000 -0300" stop="20180424190000 -0300" channel="AparecidaTV">
+    <title lang="pt">Missa de Aparecida</title>
+    <sub-title lang="pt">Matriz Basílica</sub-title>
+    <desc lang="pt">Santa Missa ao vivo diretamente da Matriz Basílica de Aparecida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424190000 -0300" stop="20180424200000 -0300" channel="AparecidaTV">
+    <title lang="pt">Clubti</title>
+    <desc lang="pt">No Clubinho mais divertido do planeta, as crianças encontram muita alegria, aprendizado e amizade!(n)</desc>
+    <category lang="pt">Infantil</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424200000 -0300" stop="20180424203000 -0300" channel="AparecidaTV">
+    <title lang="pt">Aparecida Sertaneja</title>
+    <desc lang="pt">Mariangela Zan leva até a casa dos telespectadores bênçãos e a boa música sertaneja de raiz(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424203000 -0300" stop="20180424204000 -0300" channel="AparecidaTV">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+    <desc lang="pt">Horário Eleitoral Gratuito(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424204000 -0300" stop="20180424224500 -0300" channel="AparecidaTV">
+    <title lang="pt">Aparecida Sertaneja</title>
+    <desc lang="pt">Mariangela Zan leva até a casa dos telespectadores bênçãos e a boa música sertaneja de raiz(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424224500 -0300" stop="20180424234000 -0300" channel="AparecidaTV">
+    <title lang="pt">Odair Terra</title>
+    <desc lang="pt">Com um programa que é conhecido como a casa da boa música sertaneja, Odair Terra traz entrevistas e muita música, regado sempre com grandes sucessos do sertanejo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424234000 -0300" stop="20180425000000 -0300" channel="AparecidaTV">
+    <title lang="pt">Cinema da Fé: João Paulo II</title>
+    <desc lang="pt">Em processo de beatificação pela Igreja Católica, Karol Wojtyla foi um dos Papas mais influentes e amados de todos os tempos, dedicando 26 anos de vida ao pontificado(n)</desc>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425000000 -0300" stop="20180425010000 -0300" channel="AparecidaTV">
+    <title lang="pt">Medalhão.com</title>
+    <desc lang="pt">Infocomercial(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425010000 -0300" stop="20180425030000 -0300" channel="AparecidaTV">
+    <title lang="pt">Puriflora</title>
+    <desc lang="pt">Infomerciais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425030000 -0300" stop="20180425034500 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425034500 -0300" stop="20180425040000 -0300" channel="AparecidaTV">
+    <title lang="pt">Cinema da Fé: João Paulo II</title>
+    <desc lang="pt">Em processo de beatificação pela Igreja Católica, Karol Wojtyla foi um dos Papas mais influentes e amados de todos os tempos, dedicando 26 anos de vida ao pontificado(n)</desc>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425040000 -0300" stop="20180425050000 -0300" channel="AparecidaTV">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425050000 -0300" stop="20180425053000 -0300" channel="AparecidaTV">
+    <title lang="pt">Telecurso Técnico Médio</title>
+    <desc lang="pt">Amplie seus conhecimentos e habilidades com o mais tradicional programa de TV voltado para a educação e qualificação profissional, o Telecurso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425053000 -0300" stop="20180425060000 -0300" channel="AparecidaTV">
+    <title lang="pt">Telecurso Técnico Médio</title>
+    <desc lang="pt">Amplie seus conhecimentos e habilidades com o mais tradicional programa de TV voltado para a educação e qualificação profissional, o Telecurso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425060000 -0300" stop="20180425064000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425064000 -0300" stop="20180425070000 -0300" channel="AparecidaTV">
+    <title lang="pt">Cinema da Fé: João Paulo II</title>
+    <desc lang="pt">Em processo de beatificação pela Igreja Católica, Karol Wojtyla foi um dos Papas mais influentes e amados de todos os tempos, dedicando 26 anos de vida ao pontificado(n)</desc>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425070000 -0300" stop="20180425080000 -0300" channel="AparecidaTV">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425080000 -0300" stop="20180425085000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425085000 -0300" stop="20180425090000 -0300" channel="AparecidaTV">
+    <title lang="pt">Ao Redor do Altar</title>
+    <desc lang="pt">Ao redor do altar. Coloque suas intenções para a Missa de Aparecida, direto do Santuário Nacional(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425090000 -0300" stop="20180425100000 -0300" channel="AparecidaTV">
+    <title lang="pt">Missa de Aparecida</title>
+    <sub-title lang="pt">Santuário Nacional</sub-title>
+    <desc lang="pt">Acompanhe a missa de Aparecida, ao vivo, direto do Santuário Nacional. Possui recurso CC(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425100000 -0300" stop="20180425120000 -0300" channel="AparecidaTV">
+    <title lang="pt">Bem-Vindo, Romeiro!</title>
+    <desc lang="pt">José Eymard e Bianca apresentam o universo do romeiro e levam o Santuário Nacional de Aparecida até a sua casa. Possui recurso CC(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425120000 -0300" stop="20180425123000 -0300" channel="AparecidaTV">
+    <title lang="pt">Brasil Esportes</title>
+    <desc lang="pt">As principais notícias do esporte você acompanha na programação da TV Aparecida(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425123000 -0300" stop="20180425130000 -0300" channel="AparecidaTV">
+    <title lang="pt">Tj Aparecida: Dia de São Cristóvão</title>
+    <desc lang="pt">Acompanhe este especial do dia de São Cristóvão e as principais notícias da igreja, do Brasil e do mundo. Mantenha-se informado através de um jornalismo de qualidade. Possui recurso CC(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425130000 -0300" stop="20180425140000 -0300" channel="AparecidaTV">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425140000 -0300" stop="20180425150000 -0300" channel="AparecidaTV">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425150000 -0300" stop="20180425150500 -0300" channel="AparecidaTV">
+    <title lang="pt">Consagração: Com Papa Francisco</title>
+    <desc lang="pt">Papa Francisco celebra a consagração à Nossa Senhora(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425150500 -0300" stop="20180425173000 -0300" channel="AparecidaTV">
+    <title lang="pt">Santa Receita</title>
+    <desc lang="pt">Claudete Troiano recebe convidados especiais e fala sobre saúde, moda, comportamento, artesantos, receitas e muito mais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425173000 -0300" stop="20180425180000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425180000 -0300" stop="20180425190000 -0300" channel="AparecidaTV">
+    <title lang="pt">Missa de Aparecida</title>
+    <sub-title lang="pt">Matriz Basílica</sub-title>
+    <desc lang="pt">Santa Missa ao vivo diretamente da Matriz Basílica de Aparecida(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425190000 -0300" stop="20180425190500 -0300" channel="AparecidaTV">
+    <title lang="pt">Rezando com Maria</title>
+    <desc lang="pt">Você acompanha de forma fácil e simples uma mini catequese sobre Nossa Senhora e seus diversos títulos. Maria nos convida à oração que protege, acalma, dá força e nos conecta diretamente com Jesus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425190500 -0300" stop="20180425200000 -0300" channel="AparecidaTV">
+    <title lang="pt">Clubti</title>
+    <desc lang="pt">No Clubinho mais divertido do planeta, as crianças encontram muita alegria, aprendizado e amizade!(n)</desc>
+    <category lang="pt">Infantil</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425200000 -0300" stop="20180425214500 -0300" channel="AparecidaTV">
+    <title lang="pt">Os Saltimbancos Trapalhões</title>
+    <desc lang="pt">Funcionários humildes, os amigos Didi, Dedé, Mussum e Zacarias, se tornam a grande atração do circo Bartolo, graças à sua incrível capacidade de fazer o público rir(n)</desc>
+    <credits>
+      <director>J B Tanko</director>
+      <actor>Renato Aragao</actor>
+      <actor>Dede Santana</actor>
+      <actor>Mussum</actor>
+      <actor>Zacarias</actor>
+      <actor>Lucinha Lins</actor>
+      <actor>Mario Cardoso</actor>
+      <actor>Maria Cláudia</actor>
+      <actor>Indio Colombiano</actor>
+      <actor>Eduardo Conde</actor>
+      <actor>Amauri Guarilha</actor>
+      <actor>Maria Helena</actor>
+      <actor>Indio Ju</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425214500 -0300" stop="20180425224500 -0300" channel="AparecidaTV">
+    <title lang="pt">Viagem Cultural</title>
+    <desc lang="pt">O Viagem Cultural é um dos principais programas de viagens do país e apresenta as melhores dicas para quem se interessa pelo assunto(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425224500 -0300" stop="20180425231500 -0300" channel="AparecidaTV">
+    <title lang="pt">Tj Aparecida: Dia de São Cristóvão</title>
+    <desc lang="pt">Acompanhe este especial do dia de São Cristóvão e as principais notícias da igreja, do Brasil e do mundo. Mantenha-se informado através de um jornalismo de qualidade. Possui recurso CC(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425231500 -0300" stop="20180425233000 -0300" channel="AparecidaTV">
+    <title lang="pt">Cinema da Fé: João Paulo II</title>
+    <desc lang="pt">Em processo de beatificação pela Igreja Católica, Karol Wojtyla foi um dos Papas mais influentes e amados de todos os tempos, dedicando 26 anos de vida ao pontificado(n)</desc>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425233000 -0300" stop="20180426000000 -0300" channel="AparecidaTV">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424010000 -0300" stop="20180424020000 -0300" channel="TVEvang">
+    <title lang="pt">Despertai para o Amor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424020000 -0300" stop="20180424024500 -0300" channel="TVEvang">
+    <title lang="pt">Homilia Da Família - Pe. Schankar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424024500 -0300" stop="20180424030000 -0300" channel="TVEvang">
+    <title lang="pt">Pastoral da Pessoa Idosa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424030000 -0300" stop="20180424032000 -0300" channel="TVEvang">
+    <title lang="pt">Terço das Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424032000 -0300" stop="20180424033000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424033000 -0300" stop="20180424034500 -0300" channel="TVEvang">
+    <title lang="pt">Mãe Maria</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424034500 -0300" stop="20180424041500 -0300" channel="TVEvang">
+    <title lang="pt">Via Legal</title>
+    <desc lang="pt">Via Legal aproxima a população comum das ações e da realidade da Justiça Federal em todo o País com uma linguagem simples e de fácil entendimento. O programa tem formato de uma revista eletrônica(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180424041500 -0300" stop="20180424050000 -0300" channel="TVEvang">
+    <title lang="pt">Há Poder de Deus</title>
+    <desc lang="pt">O programa Há Poder de Deus é apresentado pelo Missionário e Pregador Ironi Spuldaro da Missão Há Poder de Deus. Durante o programa Ironi sempre lê pedidos de oração e menciona um testemunho escolhido(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180424050000 -0300" stop="20180424060000 -0300" channel="TVEvang">
+    <title lang="pt">Padre em Missão</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424060000 -0300" stop="20180424064000 -0300" channel="TVEvang">
+    <title lang="pt">Terço Mariano - Padre Reginaldo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424064000 -0300" stop="20180424065000 -0300" channel="TVEvang">
+    <title lang="pt">Mensagem de Fé e Vida - D. Orlando</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424065000 -0300" stop="20180424070500 -0300" channel="TVEvang">
+    <title lang="pt">Novena Diária</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424070500 -0300" stop="20180424071500 -0300" channel="TVEvang">
+    <title lang="pt">Bom Pastor - Dom Anuar Battisti</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424071500 -0300" stop="20180424073000 -0300" channel="TVEvang">
+    <title lang="pt">Com a Palavra - Pe. Marcos Miranda</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424073000 -0300" stop="20180424083000 -0300" channel="TVEvang">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424083000 -0300" stop="20180424083500 -0300" channel="TVEvang">
+    <title lang="pt">Dia de Santo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424083500 -0300" stop="20180424084000 -0300" channel="TVEvang">
+    <title lang="pt">Jornalismo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180424084000 -0300" stop="20180424084500 -0300" channel="TVEvang">
+    <title lang="pt">Momento Do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424084500 -0300" stop="20180424085500 -0300" channel="TVEvang">
+    <title lang="pt">Hora da Criança</title>
+    <desc lang="pt">O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180424085500 -0300" stop="20180424090000 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424090000 -0300" stop="20180424094500 -0300" channel="TVEvang">
+    <title lang="pt">Fé na Vida</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424094500 -0300" stop="20180424095500 -0300" channel="TVEvang">
+    <title lang="pt">Envelhecer de Bem Com a Vida</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424095500 -0300" stop="20180424100000 -0300" channel="TVEvang">
+    <title lang="pt">Hora do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424100000 -0300" stop="20180424110000 -0300" channel="TVEvang">
+    <title lang="pt">Experiência de Deus - Pe. Reginaldo Manzotti</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424110000 -0300" stop="20180424111500 -0300" channel="TVEvang">
+    <title lang="pt">A Glória da Cruz - Dom Amilton</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424111500 -0300" stop="20180424120000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Santas Chagas - Santuário Guadalupe</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424120000 -0300" stop="20180424131000 -0300" channel="TVEvang">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424131000 -0300" stop="20180424131500 -0300" channel="TVEvang">
+    <title lang="pt">Motivacional</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424131500 -0300" stop="20180424142500 -0300" channel="TVEvang">
+    <title lang="pt">Hora da Criança</title>
+    <desc lang="pt">O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180424142500 -0300" stop="20180424143500 -0300" channel="TVEvang">
+    <title lang="pt">Viajando Pelo Conhecimento</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424143500 -0300" stop="20180424144000 -0300" channel="TVEvang">
+    <title lang="pt">Hora do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424144000 -0300" stop="20180424144500 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424144500 -0300" stop="20180424145000 -0300" channel="TVEvang">
+    <title lang="pt">Momento Ambiental</title>
+    <desc lang="pt">O Momento Ambiental mescla imagens, entrevistas com especialistas e informações técnicas com boas histórias de cidadãos que sabem que não é preciso muito para ajudar a recuperar o planeta(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20180424145000 -0300" stop="20180424150000 -0300" channel="TVEvang">
+    <title lang="pt">Momento Do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424150000 -0300" stop="20180424152000 -0300" channel="TVEvang">
+    <title lang="pt">Terço das Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424152000 -0300" stop="20180424153000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424153000 -0300" stop="20180424161500 -0300" channel="TVEvang">
+    <title lang="pt">Palavra de Fé - Dra. Filó</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424161500 -0300" stop="20180424164500 -0300" channel="TVEvang">
+    <title lang="pt">Virtuosa - Ziza Fernandes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424164500 -0300" stop="20180424165000 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424165000 -0300" stop="20180424170000 -0300" channel="TVEvang">
+    <title lang="pt">Divina Receita</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180424170000 -0300" stop="20180424173000 -0300" channel="TVEvang">
+    <title lang="pt">Evangelizarte</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424173000 -0300" stop="20180424180000 -0300" channel="TVEvang">
+    <title lang="pt">Homilia Da Família - Pe. Schankar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424180000 -0300" stop="20180424185000 -0300" channel="TVEvang">
+    <title lang="pt">Terço Mariano - Padre Reginaldo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424185000 -0300" stop="20180424190000 -0300" channel="TVEvang">
+    <title lang="pt">Momento Do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424190000 -0300" stop="20180424203000 -0300" channel="TVEvang">
+    <title lang="pt">Conhecendo a Palavra - Dom José Antonio Peruzzo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424203000 -0300" stop="20180424204500 -0300" channel="TVEvang">
+    <title lang="pt">Motivacional</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424204500 -0300" stop="20180424210000 -0300" channel="TVEvang">
+    <title lang="pt">PPI - Pastoral da Pessoa Idosa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424210000 -0300" stop="20180424215000 -0300" channel="TVEvang">
+    <title lang="pt">Fé na Vida</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424215000 -0300" stop="20180424215500 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424215500 -0300" stop="20180424220000 -0300" channel="TVEvang">
+    <title lang="pt">Dia de Santo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424220000 -0300" stop="20180424230000 -0300" channel="TVEvang">
+    <title lang="pt">Experiência de Deus - Pe. Reginaldo Manzotti</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180424230000 -0300" stop="20180425010000 -0300" channel="TVEvang">
+    <title lang="pt">Eu Tenho Fé</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425010000 -0300" stop="20180425020000 -0300" channel="TVEvang">
+    <title lang="pt">Evangeliza Show</title>
+    <desc lang="pt">Programa apresentado pelo Padre Reginaldo Manzotti, levando a Palavra de Deus através de meditações, música e entrevistas sobre diversos assuntos ligados a nossa Igreja(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425020000 -0300" stop="20180425021500 -0300" channel="TVEvang">
+    <title lang="pt">Com a Palavra - Pe. Marcos Miranda</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425021500 -0300" stop="20180425030000 -0300" channel="TVEvang">
+    <title lang="pt">Fé na Vida</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425030000 -0300" stop="20180425032000 -0300" channel="TVEvang">
+    <title lang="pt">Terço das Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425032000 -0300" stop="20180425033000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425033000 -0300" stop="20180425034500 -0300" channel="TVEvang">
+    <title lang="pt">Mãe Maria</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425034500 -0300" stop="20180425041500 -0300" channel="TVEvang">
+    <title lang="pt">Homilia da Família</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425041500 -0300" stop="20180425051500 -0300" channel="TVEvang">
+    <title lang="pt">Brasil Caipira</title>
+    <desc lang="pt">As apresentações musicais do programa são sempre pautadas de gente comum, simples, que exercem outras atividades, mas que sabem o segredo de pontear uma viola, puxar o fole de uma sanfona e de cantar a verdadeira música nacional(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180425051500 -0300" stop="20180425054500 -0300" channel="TVEvang">
+    <title lang="pt">Pesca e Prosa</title>
+    <desc lang="pt">Entre uma tentativa e outra de fisgar algum peixe pelas águas que correm por este Brasil a fora, o apresentador bate um bom papo com nossos convidados, celebridades do meio artístico do tempo presente e futuro(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180425054500 -0300" stop="20180425060000 -0300" channel="TVEvang">
+    <title lang="pt">Motivacional</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425060000 -0300" stop="20180425063700 -0300" channel="TVEvang">
+    <title lang="pt">Terço Mariano - Padre Reginaldo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425063700 -0300" stop="20180425064000 -0300" channel="TVEvang">
+    <title lang="pt">Mensagem de Fé e Vida - D. Orlando</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425064000 -0300" stop="20180425065000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Perpétuo Socorro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425065000 -0300" stop="20180425070500 -0300" channel="TVEvang">
+    <title lang="pt">Bom Pastor - Dom Anuar Battisti</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425070500 -0300" stop="20180425071500 -0300" channel="TVEvang">
+    <title lang="pt">Novena Diária</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425071500 -0300" stop="20180425073000 -0300" channel="TVEvang">
+    <title lang="pt">Com a Palavra - Pe. Marcos Miranda</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425073000 -0300" stop="20180425081500 -0300" channel="TVEvang">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425081500 -0300" stop="20180425083000 -0300" channel="TVEvang">
+    <title lang="pt">Motivacional</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425083000 -0300" stop="20180425083500 -0300" channel="TVEvang">
+    <title lang="pt">Dia de Santo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425083500 -0300" stop="20180425084000 -0300" channel="TVEvang">
+    <title lang="pt">Jornalismo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180425084000 -0300" stop="20180425084500 -0300" channel="TVEvang">
+    <title lang="pt">Momento Do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425084500 -0300" stop="20180425085500 -0300" channel="TVEvang">
+    <title lang="pt">Hora da Criança</title>
+    <desc lang="pt">O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180425085500 -0300" stop="20180425090000 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425090000 -0300" stop="20180425094500 -0300" channel="TVEvang">
+    <title lang="pt">Fé na Vida</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425094500 -0300" stop="20180425095500 -0300" channel="TVEvang">
+    <title lang="pt">Pausa Para Reflexão - D. Peruzzo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425095500 -0300" stop="20180425100000 -0300" channel="TVEvang">
+    <title lang="pt">Hora do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425100000 -0300" stop="20180425110000 -0300" channel="TVEvang">
+    <title lang="pt">Experiência de Deus - Pe. Reginaldo Manzotti</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425110000 -0300" stop="20180425114500 -0300" channel="TVEvang">
+    <title lang="pt">Encontro com Padre Kleina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425114500 -0300" stop="20180425120000 -0300" channel="TVEvang">
+    <title lang="pt">Divina Receita</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180425120000 -0300" stop="20180425131500 -0300" channel="TVEvang">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425131500 -0300" stop="20180425133000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Perpétuo Socorro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425133000 -0300" stop="20180425142500 -0300" channel="TVEvang">
+    <title lang="pt">Hora da Criança</title>
+    <desc lang="pt">O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20180425142500 -0300" stop="20180425143500 -0300" channel="TVEvang">
+    <title lang="pt">Viajando Pelo Conhecimento</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425143500 -0300" stop="20180425144000 -0300" channel="TVEvang">
+    <title lang="pt">Hora do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425144000 -0300" stop="20180425144500 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425144500 -0300" stop="20180425145000 -0300" channel="TVEvang">
+    <title lang="pt">Momento Ambiental</title>
+    <desc lang="pt">O Momento Ambiental mescla imagens, entrevistas com especialistas e informações técnicas com boas histórias de cidadãos que sabem que não é preciso muito para ajudar a recuperar o planeta(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20180425145000 -0300" stop="20180425150000 -0300" channel="TVEvang">
+    <title lang="pt">Momento Do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425150000 -0300" stop="20180425152000 -0300" channel="TVEvang">
+    <title lang="pt">Terço das Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425152000 -0300" stop="20180425153000 -0300" channel="TVEvang">
+    <title lang="pt">Novena das Santas Chagas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425153000 -0300" stop="20180425161500 -0300" channel="TVEvang">
+    <title lang="pt">Palavra de Fé - Dra. Filó</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425161500 -0300" stop="20180425164500 -0300" channel="TVEvang">
+    <title lang="pt">Virtuosa - Ziza Fernandes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425164500 -0300" stop="20180425165000 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425165000 -0300" stop="20180425170000 -0300" channel="TVEvang">
+    <title lang="pt">Divina Receita</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180425170000 -0300" stop="20180425173000 -0300" channel="TVEvang">
+    <title lang="pt">Evangelizarte</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425173000 -0300" stop="20180425180000 -0300" channel="TVEvang">
+    <title lang="pt">Homilia Da Família - Pe. Schankar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425180000 -0300" stop="20180425184000 -0300" channel="TVEvang">
+    <title lang="pt">Terço Mariano - Padre Reginaldo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425184000 -0300" stop="20180425185000 -0300" channel="TVEvang">
+    <title lang="pt">Momento Do Associado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425185000 -0300" stop="20180425193000 -0300" channel="TVEvang">
+    <title lang="pt">Novena Nossa Sra. Imaculada Conceição - Padre Kleina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425193000 -0300" stop="20180425200000 -0300" channel="TVEvang">
+    <title lang="pt">Família em Casa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425200000 -0300" stop="20180425210000 -0300" channel="TVEvang">
+    <title lang="pt">Documentário</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180425210000 -0300" stop="20180425215000 -0300" channel="TVEvang">
+    <title lang="pt">Fé na Vida</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425215000 -0300" stop="20180425215500 -0300" channel="TVEvang">
+    <title lang="pt">O Melhor de Mim</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180425215500 -0300" stop="20180425220000 -0300" channel="TVEvang">
+    <title lang="pt">Dia de Santo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425220000 -0300" stop="20180425230000 -0300" channel="TVEvang">
+    <title lang="pt">Experiência de Deus - Pe. Reginaldo Manzotti</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180425230000 -0300" stop="20180426010000 -0300" channel="TVEvang">
+    <title lang="pt">Eu Tenho Fé</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180424000000 -0300" stop="20180424010000 -0300" channel="CancaoN">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424010000 -0300" stop="20180424020000 -0300" channel="CancaoN">
+    <title lang="pt">Nosso Canto Nosso Chão</title>
+    <desc lang="pt">Criado em 2016, o Nosso canto nosso chão tem como foco principal desbravar as belezas do Nordeste e as curiosidades de cada região, tendo como foco a valorização da religiosidade do povo nordestino(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424020000 -0300" stop="20180424030000 -0300" channel="CancaoN">
+    <title lang="pt">Canção Nova Sertaneja</title>
+    <desc lang="pt">Programa sertanejo voltado a música de raiz e evangelização(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424030000 -0300" stop="20180424033000 -0300" channel="CancaoN">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424033000 -0300" stop="20180424040000 -0300" channel="CancaoN">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424040000 -0300" stop="20180424041500 -0300" channel="CancaoN">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424041500 -0300" stop="20180424050000 -0300" channel="CancaoN">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424050000 -0300" stop="20180424060000 -0300" channel="CancaoN">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">O cotidiano refletido em palestras e seminários(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424060000 -0300" stop="20180424064000 -0300" channel="CancaoN">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Reze conosco meditando os mistérios do Santo Terço(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424064000 -0300" stop="20180424064500 -0300" channel="CancaoN">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424064500 -0300" stop="20180424070000 -0300" channel="CancaoN">
+    <title lang="pt">Salmos</title>
+    <desc lang="pt">O programa promove um momento de meditação conduzido por Dom João Justino de Medeiros e conta com a participação de Allyson Castro e das monjas do Mosteiro Nossa Senhora das Graças(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424070000 -0300" stop="20180424074600 -0300" channel="CancaoN">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424074600 -0300" stop="20180424080000 -0300" channel="CancaoN">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424080000 -0300" stop="20180424093000 -0300" channel="CancaoN">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">Proposta de começar bem o dia com ânimo, bom humor e esperança(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424093000 -0300" stop="20180424110000 -0300" channel="CancaoN">
+    <title lang="pt">Manhã Viva</title>
+    <desc lang="pt">Revista jornalística que aborda temas relacionados à saúde, culinária, artesanato, beleza, nutrição, meio ambiente, família e atualidades(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424110000 -0300" stop="20180424120000 -0300" channel="CancaoN">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424120000 -0300" stop="20180424130000 -0300" channel="CancaoN">
+    <title lang="pt">Trocando Ideias</title>
+    <desc lang="pt">Ricardo Sá, e convidados recebem perguntas por telefone, e-mail e twitter sempre aconselhando e indicando bons livros e oportunidades para se aprofundar nos assuntos abordados(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424130000 -0300" stop="20180424140000 -0300" channel="CancaoN">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <sub-title lang="pt">Pe. Fabio de Melo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424140000 -0300" stop="20180424144700 -0300" channel="CancaoN">
+    <title lang="pt">Juntos Somos Mais</title>
+    <desc lang="pt">Um programa dinâmico, interativo, alegre e espontâneo que anima as tardes da TV com músicas, entrevistas e bom humor(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424144700 -0300" stop="20180424150000 -0300" channel="CancaoN">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424150000 -0300" stop="20180424153000 -0300" channel="CancaoN">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424153000 -0300" stop="20180424160000 -0300" channel="CancaoN">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424160000 -0300" stop="20180424163000 -0300" channel="CancaoN">
+    <title lang="pt">Terra Santa News</title>
+    <desc lang="pt">Traz as principais notícias do Oriente Médio(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424163000 -0300" stop="20180424170000 -0300" channel="CancaoN">
+    <title lang="pt">Fazendo Esperança</title>
+    <desc lang="pt">Programa de Assistência e recuperação de viciados(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424170000 -0300" stop="20180424173000 -0300" channel="CancaoN">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Espaço para as crianças, com aventuras e grandes descobertas(n)</desc>
+    <category lang="pt">Infantil</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424173000 -0300" stop="20180424174500 -0300" channel="CancaoN">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">Em foco a Bíblia, o livro sagrado para os cristãos(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424174500 -0300" stop="20180424175000 -0300" channel="CancaoN">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O “Flash do Jornalismo” são pequenos boletins apresentados ao longo da programação que exibem notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424175000 -0300" stop="20180424183000 -0300" channel="CancaoN">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Reze conosco meditando os mistérios do Santo Terço(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424183000 -0300" stop="20180424183800 -0300" channel="CancaoN">
+    <title lang="pt">Caminhos de Unidade</title>
+    <desc lang="pt">Reflexão sobre a Unidade na humanidade(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424183800 -0300" stop="20180424184500 -0300" channel="CancaoN">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424184500 -0300" stop="20180424193000 -0300" channel="CancaoN">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424193000 -0300" stop="20180424200000 -0300" channel="CancaoN">
+    <title lang="pt">Na Escola de Nazaré</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424200000 -0300" stop="20180424210000 -0300" channel="CancaoN">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424210000 -0300" stop="20180424220000 -0300" channel="CancaoN">
+    <title lang="pt">Para Ser Feliz</title>
+    <desc lang="pt">A atração será voltada aos testemunhos e reflexões sobre a vida. O objetivo é instigar as pessoas a analisarem suas próprias vidas e, diante das diferentes realidades vividas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424220000 -0300" stop="20180424233000 -0300" channel="CancaoN">
+    <title lang="pt">PHN</title>
+    <desc lang="pt">Com muita música e descontração, o programa traz histórias de quem assumiu o PHN “Por/hoje/não” e mudaram suas vidas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424233000 -0300" stop="20180425002700 -0300" channel="CancaoN">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">Proposta de começar bem o dia com ânimo, bom humor e esperança(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425002700 -0300" stop="20180425010000 -0300" channel="CancaoN">
+    <title lang="pt">Deus Proverá</title>
+    <desc lang="pt">Institucional com prestação de contas da Obra Canção Nova com seu público. Os quadros demonstram os investimentos realizados: as construções e eventos promovidos, reformas e ações sociais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425010000 -0300" stop="20180425023000 -0300" channel="CancaoN">
+    <title lang="pt">PHN</title>
+    <desc lang="pt">Com muita música e descontração, o programa traz histórias de quem assumiu o PHN “Por/hoje/não” e mudaram suas vidas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425023000 -0300" stop="20180425030000 -0300" channel="CancaoN">
+    <title lang="pt">Mais Saúde</title>
+    <desc lang="pt">Programa apresentado pela nutricionista clínica, Dra. Gisela Savioli, abordando temas como saúde, qualidade de vida e educação alimentar(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425030000 -0300" stop="20180425033000 -0300" channel="CancaoN">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425033000 -0300" stop="20180425040000 -0300" channel="CancaoN">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425040000 -0300" stop="20180425041500 -0300" channel="CancaoN">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425041500 -0300" stop="20180425050000 -0300" channel="CancaoN">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425050000 -0300" stop="20180425060000 -0300" channel="CancaoN">
+    <title lang="pt">Mons Jonas Abib</title>
+    <sub-title lang="pt">Nossa Missão É Evangelizar</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425060000 -0300" stop="20180425063300 -0300" channel="CancaoN">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Reze conosco meditando os mistérios do Santo Terço(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425063300 -0300" stop="20180425070700 -0300" channel="CancaoN">
+    <title lang="pt">Educar na Fé</title>
+    <desc lang="pt">Programa voltado aos pais e catequistas o qual aborda a educação religiosa de crianças(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425070700 -0300" stop="20180425071500 -0300" channel="CancaoN">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425071500 -0300" stop="20180425073000 -0300" channel="CancaoN">
+    <title lang="pt">Salmos</title>
+    <desc lang="pt">O programa promove um momento de meditação conduzido por Dom João Justino de Medeiros e conta com a participação de Allyson Castro e das monjas do Mosteiro Nossa Senhora das Graças(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425073000 -0300" stop="20180425084700 -0300" channel="CancaoN">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425084700 -0300" stop="20180425094500 -0300" channel="CancaoN">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">Proposta de começar bem o dia com ânimo, bom humor e esperança(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425094500 -0300" stop="20180425103000 -0300" channel="CancaoN">
+    <title lang="pt">Manhã Viva</title>
+    <desc lang="pt">Revista jornalística que aborda temas relacionados à saúde, culinária, artesanato, beleza, nutrição, meio ambiente, família e atualidades(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425103000 -0300" stop="20180425104200 -0300" channel="CancaoN">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425104200 -0300" stop="20180425110000 -0300" channel="CancaoN">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O “Flash do Jornalismo” são pequenos boletins apresentados ao longo da programação que exibem notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425110000 -0300" stop="20180425120000 -0300" channel="CancaoN">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425120000 -0300" stop="20180425130000 -0300" channel="CancaoN">
+    <title lang="pt">Pergunte e Responderemos</title>
+    <desc lang="pt">Neste programa, que será ao vivo, o professor Felipe Aquino vai responder perguntas dos telespectadores relacionados à Igreja e posicionamento católico diante de temas de interesse da família cristã(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425130000 -0300" stop="20180425140000 -0300" channel="CancaoN">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <sub-title lang="pt">Pe. Rufus</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425140000 -0300" stop="20180425144700 -0300" channel="CancaoN">
+    <title lang="pt">Juntos Somos Mais</title>
+    <desc lang="pt">Um programa dinâmico, interativo, alegre e espontâneo que anima as tardes da TV com músicas, entrevistas e bom humor(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425144700 -0300" stop="20180425150000 -0300" channel="CancaoN">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O “Flash do Jornalismo” são pequenos boletins apresentados ao longo da programação que exibem notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425150000 -0300" stop="20180425153000 -0300" channel="CancaoN">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425153000 -0300" stop="20180425160000 -0300" channel="CancaoN">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425160000 -0300" stop="20180425170000 -0300" channel="CancaoN">
+    <title lang="pt">Para Ser Feliz</title>
+    <desc lang="pt">A atração será voltada aos testemunhos e reflexões sobre a vida. O objetivo é instigar as pessoas a analisarem suas próprias vidas e, diante das diferentes realidades vividas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425170000 -0300" stop="20180425173000 -0300" channel="CancaoN">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Espaço para as crianças, com aventuras e grandes descobertas(n)</desc>
+    <category lang="pt">Infantil</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425173000 -0300" stop="20180425174500 -0300" channel="CancaoN">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">Em foco a Bíblia, o livro sagrado para os cristãos(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425174500 -0300" stop="20180425175500 -0300" channel="CancaoN">
+    <title lang="pt">Caminhos de Unidade</title>
+    <desc lang="pt">Reflexão sobre a Unidade na humanidade(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425175500 -0300" stop="20180425180000 -0300" channel="CancaoN">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O “Flash do Jornalismo” são pequenos boletins apresentados ao longo da programação que exibem notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425180000 -0300" stop="20180425183200 -0300" channel="CancaoN">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Reze conosco meditando os mistérios do Santo Terço(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425183200 -0300" stop="20180425184500 -0300" channel="CancaoN">
+    <title lang="pt">Salmos</title>
+    <desc lang="pt">O programa promove um momento de meditação conduzido por Dom João Justino de Medeiros e conta com a participação de Allyson Castro e das monjas do Mosteiro Nossa Senhora das Graças(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425184500 -0300" stop="20180425193000 -0300" channel="CancaoN">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425193000 -0300" stop="20180425200000 -0300" channel="CancaoN">
+    <title lang="pt">Educar na Fé</title>
+    <desc lang="pt">Programa voltado aos pais e catequistas o qual aborda a educação religiosa de crianças(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425200000 -0300" stop="20180425213000 -0300" channel="CancaoN">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425213000 -0300" stop="20180425223000 -0300" channel="CancaoN">
+    <title lang="pt">Especial de Campanha</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180425223000 -0300" stop="20180426000000 -0300" channel="CancaoN">
+    <title lang="pt">Especial de Campanha</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180424130000 -0300" stop="20180424180000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180424180000 -0300" stop="20180424203000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180424203000 -0300" stop="20180425000000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425000000 -0300" stop="20180425030000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425030000 -0300" stop="20180425043000 -0300" channel="Rede21">
+    <title lang="pt">Doc.21 - Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180425043000 -0300" stop="20180425050000 -0300" channel="Rede21">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180425050000 -0300" stop="20180425060000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425060000 -0300" stop="20180425090000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425090000 -0300" stop="20180425130000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425130000 -0300" stop="20180425180000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425180000 -0300" stop="20180425203000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180425203000 -0300" stop="20180426000000 -0300" channel="Rede21">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+</tv>
