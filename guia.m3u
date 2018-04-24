@@ -23,38 +23,17 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida
 https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVEvang" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Gospel", TV Evangelizar op2
+#EXTINF:-1 tvg-id="TVEvang" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Gospel", TV Evangelizar
 http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="Gospel", Can誽o Nova
+#EXTINF:-1 tvg-id="CancaoN" tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="Gospel", Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="Gospel", Can誽o Nova op2
+#EXTINF:-1 tvg-id="CancaoN" tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="Gospel", Canção Nova alt
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="Gospel", RS21
+#EXTINF:-1 tvg-id="Rede21" tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="Gospel", RS21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="Gospel", RS21 op2
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Gospel", TV Evangelizar
-http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
-
-
-
-
 
 
 ############################### Canais Abertos
