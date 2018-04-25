@@ -50,6 +50,8 @@ http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFB
 
 ############################### ESPORTES
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4f2552ee2eec42fb54e231319579535.jpg" group-title="Esportes",SporTV
+http://185.152.66.81:25461/live/ezequiel/12345/1738.m3u8?token=SUZYUxZQRwJGAVoHVFVTAFcEA1BSVQJeUQRcC1NVAVZQAQAEXAEAC1QRFERGFhddV1loCFdHC1cDBgEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXBlwFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1YBRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlwIVgwXRA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/065d3690c35c813b6757518ac0400171.jpg" group-title="Esportes",ESPN+
 http://apk222.futeboltv.com:8081/live/2/chunks.m3u8?MEGAMAXIPTV
