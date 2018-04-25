@@ -1,5 +1,7 @@
 #EXTM3U
 
+################### CATOLICO
+
 #EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",NS Aparecida
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal1.stream/playlist.m3u8
 
@@ -37,66 +39,11 @@ http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-chann
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
 
-############################### Canais Abertos
+################################# CANAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/9deb6164fc0fab9bb1f0a3c626cc2622.jpg" group-title="TV Aberta",MTV
 http://178.132.4.88:25461/live/wallace/1234/128.m3u8?token=TxAMVEBeQwMQBABeWwlSUFdXBgBWWFYAUlAGVgRWA1IAClYAVlNQWAYUGxoRRRBRV1hpXFYbDwIDWh5ARBcHEGtbABcJFFAJAQYDCkAdQEBfWFMXCAkZEUELVkALRlBQAgNWFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAwgGER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAsCBQBATw==
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f5d6eb3f0e4d30f40c3128f0f6129e4c.jpg" group-title="CANAIS",GLOBO
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
-
-#EXTINF:-1 tvg-logo="https://telinhadatv.files.wordpress.com/2012/07/sbt.jpg" group-title="Canal Aberto", SBT
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Canal Aberto", Globo
-http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record - Tv Gazeta MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record - Tv Gazeta MT op2
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record - Miramar Angola
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://simpleicon.com/wp-content/uploads/tv.png" group-title="Canais Abertos", Record News
-http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3a211dd7faf0d079ae8a56582756ba78.jpg" group-title="TV/FECHADA",DISCOVERY  CHANNEL
-http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5ca825ee8f4036221d6d08a3f5c0e3eb.jpg" group-title="TV/FECHADA",ANIMAL PLANET
-http://185.152.66.81:25461/live/leticia/123456/1864.m3u8?token=SUZYUxZQRwJGAFoABVpTDwIFAQdXBAMCDVdYUQIADFQFXFRTVQFXD1QRFERGFhddV1loCFdHC1cMAw0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBddAFEIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA10HRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DClcAVhZI
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2d039a20a62f4fcb15ad2ff920e3a6e3.jpg" group-title="FILMES/SERIES",AXN HD
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.ts?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFhddV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/370b125af59fd4e55889d18e90bee860.jpg" group-title="FILMES/SERIES",FOX HD
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2160.ts?token=SUZYUxZQRwJGVl4FBlYACwEEBAdXBAACAARbVlABAQcGVlQAUF5TDAYRFERGFhddV1loCFdHC1QFAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGUQNWHkZAWwEaXxpdBQxSF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcNBQBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEDQcLBxMf
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6a7e2be680affdd1e207270c7ac51746.jpg" group-title="TV/FECHADA",Fox TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV/FECHADA",MTV
-http://178.132.4.88:25461/live/wallace/1234/128.m3u8?token=TxAMVEBeQwMQBABeWwlSUFdXBgBWWFYAUlAGVgRWA1IAClYAVlNQWAYUGxoRRRBRV1hpXFYbDwIDWh5ARBcHEGtbABcJFFAJAQYDCkAdQEBfWFMXCAkZEUELVkALRlBQAgNWFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAwgGER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAsCBQBATw==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7258e8972e552982e52cfef8ca5b5671.jpg" group-title="TV/ABERTA",BAND VIA MY
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c05f5f36969f5921c0e8de6dc49ee4a4.jpg" group-title="Noticias",GLOBO NEWS
-http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwAHD1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFhddV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f260d94a7b22d572e10f028c529b6406.jpg" group-title="Canais fechado",MULTISHOW
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
 
 ############################### ESPORTES
@@ -133,12 +80,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eb55114c1d736eaa57563b077ee35e2d.jpg" group-title="TV/FECHADA",SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/928795a395b5629760977ffad5a621a5.jpg" group-title="Canais Internacionais",ABU DABI SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/126d8d5a314eea4eb30fd0e140bfdfce.jpg" group-title="Canais Internacionais",ABU DABI SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
-
 #EXTINF:0 tvg-logo="https://goo.gl/frbDx5" group-title="",HORSE BRASIL
 http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
 
@@ -154,460 +95,55 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="ESPORTES", Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-
-########################## outros
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ffe8de2a3cddaceb7de75c3ce6abdae0.jpg" group-title="TV Aberta",REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f17e14605aac0a48079ec8ce7022f60b.jpg" group-title="TV ABERTA",TV ESCOLA **
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+################################# CANAIS
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f5d6eb3f0e4d30f40c3128f0f6129e4c.jpg" group-title="CANAIS",GLOBO
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?IPTVCOTIA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/065d3690c35c813b6757518ac0400171.jpg" group-title="Esportes",ESPN+
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?MEGAMAXIPTV
+#EXTINF:-1 tvg-logo="https://telinhadatv.files.wordpress.com/2012/07/sbt.jpg" group-title="Canal Aberto", SBT
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d53d36fe7e7d44802ad1079d35c61cda.jpg" group-title="Esportes",ESPN
-http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/af5dd6b55d063edc48ef49699a8341a6.jpg" group-title="Esportes",ESPN Brasil
-http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e4b401e28dd05b0f4dac3d7830b6072.jpg" group-title="Esportes",Esporte Interativo
-http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c668f89698b76c48ae5333eb99109be.jpg" group-title="TV AO VIVO",Fox Sports
-http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4174f355cb58f61e740e6842c27724e4.jpg" group-title="Esportes",Fox Sports 2
-http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4f2552ee2eec42fb54e231319579535.jpg" group-title="Esportes",SporTV
-http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71bf5f2d333b9cb1e7a990012cbf355b.jpg" group-title="Esportes",SporTV 2
-http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?MEGAMAXIPTV
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/065d3690c35c813b6757518ac0400171.jpg" group-title="Esportes",ESPN+
-http://aovivo2.futeboltv.com:8081/live/2/chunks.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d53d36fe7e7d44802ad1079d35c61cda.jpg" group-title="Esportes",ESPN
-http://aovivo2.futeboltv.com:8081/live/16/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/af5dd6b55d063edc48ef49699a8341a6.jpg" group-title="Esportes",ESPN Brasil
-http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e4b401e28dd05b0f4dac3d7830b6072.jpg" group-title="Esportes",Esporte Interativo
-http://aovivo2.futeboltv.com:8081/live/8/chunks.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3c668f89698b76c48ae5333eb99109be.jpg" group-title="TV AO VIVO",Fox Sports
-http://aovivo2.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4174f355cb58f61e740e6842c27724e4.jpg" group-title="Esportes",Fox Sports 2
-http://aovivo2.futeboltv.com:8081/live/13/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4f2552ee2eec42fb54e231319579535.jpg" group-title="Esportes",SporTV
-http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8?MEGAMAXIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71bf5f2d333b9cb1e7a990012cbf355b.jpg" group-title="Esportes",SporTV 2
-http://aovivo2.futeboltv.com:8081/live/15/playlist.m3u8?MEGAMAXIPTV
-
-
-
-
-
-
-######### temp
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bee68f8340fb6dc921f806c29ea72d26.jpg" group-title="TV/FECHADA",Planeta HD
-http://84.43.207.130/planetahd/planetahd.m3u8
-
-#EXTINF:-1 tvg-logo="https://telinhadatv.files.wordpress.com/2012/07/sbt.jpg" group-title="Canal Aberto", SBT 
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telinhadatv.files.wordpress.com/2012/07/sbt.jpg" group-title="Canal Aberto", SBT 
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT SC
-http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvarapuan.png" group-title="CANAL ABERTO",RedeTV! - TV Arapuan (PB)
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV! TV - Rond獼ia (RO)
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO", TV Gazeta (SP)
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV Aberta",Sesc TV HD
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta",Rede Familia
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/yxGs0mZ.png" group-title="TV Aberta",Rede TV PR HD
-http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
-
-###################################### tvfoco
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO",Globo
+#EXTINF:-1 tvg-logo="" group-title="Canal Aberto", Globo
 http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KbgmK8j.png" group-title="CANAL ABERTO",BBB18
-http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record - Tv Gazeta MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT Interior SP
-http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Serra Dourada - (GO)
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Cidade Verde - (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT SC
-http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV- TV Sucesso (GO)
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV- TV Tropical (RN)
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO", Record - TV Gazeta (MT)
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record - Tv Gazeta MT op2
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png"  group-title="ANGOLA",RecordTV - TV Miramar - Angola
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO",Band - RBA TV (PA)
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvarapuan.png" group-title="CANAL ABERTO",RedeTV! - TV Arapuan (PB)
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV! TV - Rond繫nia (RO)
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO", TV Gazeta (SP)
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="JORNALISMO",Record News ES
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="JORNALISMO",Record News - TV Guar獺 (MA)
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvitarare.png" group-title="CANAL ABERTO",TV Cultura- TV Itarar矇 (PE)
-http://177.73.84.49/hls/live/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvbaiana.png" group-title="CANAL ABERTO",TV Cultura - TV Baiana (BA)
-http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/atividade.png" group-title="CANAL ABERTO",TV Cultura - TV Atividade (MG)
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/redeatividade/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvbrasilcentral.com.br/IMAGENS/logotbc.png" group-title="CANAL ABERTO",TV Cultura - TBC (GO)
-http://rsync.com.br:8081/rtsp/tbc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/c/c2/20160712014607%21Logotipo_da_TV_Nova_Nordeste.png" group-title="CANAL ABERTO",TV Cultura - Nova Nordeste (PE)
-http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" group-title="CANAL ABERTO", TV Brasil Internacional
-http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="CANAL ABERTO", Rede Brasil
-https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvmarajoara.png" group-title="CANAL ABERTO", Rede Brasil - TV Marajoara (PA)
-http://video01.tvdigitalhd.org/tv31966/tv31966/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="CANAL ABERTO",Rede Brasil - TV Brusque (SC)
-http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="Categorias", TV Di獺rio - Cear獺
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/uhPewlD.png" group-title="Categorias", Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-heart-tv.png" group-title="Categorias", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?www.tecnotv.info?hd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="Categorias", m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/capital.png" group-title="Categorias", Capital TiV羅 SD
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ISAQUE
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="Categorias", Retr繫
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA",NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/5d0azy3wd/Rede_Fam_lia.png" group-title="Categorias", Rede Fam穩lia
-http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvuniao.png" group-title="Categorias", TV Uni瓊o - Cear獺
-http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8?wowzasessionid=1843050145
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logos/redemeionorte.png" group-title="Categorias", Meio Norte - Piau穩
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="Categorias", TV Jornal - Limeira SP
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/hHaH74V.png" group-title="Categorias", Amazon Sat
-http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s16.postimg.org/ovcr5gj79/TV_Guarany.png" group-title="Categorias", TV Guarani - WebTV
-http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/toptv.png" group-title="CANAL ABERTO",TOP TV
-http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="Categorias", TV Escola
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="Categorias", TVE Bahia - TV Brasil
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="RELIGIOSO", TV Evangelizar
-http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="RELIGIOSO", Can癟瓊o Nova HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="RELIGIOSO", Rede Vida
-http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?jhonlocao
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="RELIGIOSO", Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO", Rede S矇culo 21
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ValterHD
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="RELIGIOSO", Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSO", Novo Tempo RS
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="RELIGIOSO", IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/aiNRaga.png" group-title="RELIGIOSO", IURD TV
-http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?JOSE-LISTA
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/CJC.png" group-title="RELIGIOSO", CJC
-http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="RELIGIOSO",Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="Categorias", Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUP
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvaperipe.png" group-title="REGIONAIS",TV Aperip礙 (SE)
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/eparana.png" group-title="CANAL ABERTO",eParan獺 (PR)
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tv_candides.png" group-title="CANAL ABERTO", TV Candid矇s (MG)
-https://cdn.jmvstream.com/live/hls/lv_1980_transcoder/LV1980_S5CwH0FrG1.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="CANAL ABERTO",TV C璽mara
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/NBR.png" group-title="Distrito Federal",NBR (DF)
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redenew.png" group-title="CANAL ABERTO",Rede New
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="MUSICA", Radio Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="MUSICA",Virgin TV
-http://fms.105.net:1935/live/virgin2%20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/AJ7bxR6dq6/B041Wsxo9yZayY64.png" group-title="CANAL ABERTO",SescTV
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://s30.postimg.org/6gazun6wh/logorodape.png" group-title="CANAL ABERTO",Rede Cultura do Par獺
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="Paran獺",TV Transam矇rica (PR)
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/central.png" group-title="Paran獺",Central TV (PR)
-https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="Goi獺s", FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Puc-TV.jpg" group-title="Goi獺s", Puc TV (GO)
-http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TBO.png" group-title="Goi獺s", TBO (GO)
-http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmar.png" group-title="Alagoas",TV Mar (AL)
-http://209.126.127.101:1935/tvmar/tvmar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmaceio.jpg" group-title="Alagoas",TV Macei籀 (AL)
-https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvriolargo.png" group-title="Alagoas",TV Rio Largo (AL)
-http://stmv4.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="Bahia",TV A Cara da Bahia
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/rbcsalvador.png" group-title="Bahia",RBC Salvador
-http://stmv1.srvstm.com/alexandre3116/alexandre3116/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/governodabahia.png" group-title="Bahia", TV Governo da Bahia
-http://streaming42.sitehosting.com.br:1935/xcfilmes/smil:xcfilmes.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvjsid.png" group-title="Bahia", TV Sjid (BA)
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Assembleia_Cear獺.png" group-title="Cear獺", TV Assembl矇ia (CE)
-http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvverdevale.png" group-title="Cear獺", TV Verde Vale (CE)
-ttps://ssh101.com/m3u8/dyn/13verdevalelive13/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvacarati.jpg" group-title="Cear獺", Tv Aracati (CE)
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/allsports.png" group-title="Distrito Federal",All Sports (DF)
-https://5a0c3936c25c8.streamlock.net:1443/allsportstv/allsportstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnbrasil.png" group-title="Distrito Federal", TVN Brasil (DF)
-http://wz6.dnip.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/radioesportesbrasilia.png" group-title="Distrito Federal", Esportes Bras穩lia (DF)
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TVORIGEM.jpg" group-title="Distrito Federal", TV Origem (DF)
-http://stmv2.srvstm.com/jorsilei2749/jorsilei2749/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="Esp穩rito Santo", TV Ambiental (ES)
-http://wse.transmissaodigital.com:1935/tvambiental/tvambiental/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvvitoria.png" group-title="Esp穩rito Santo",TV Vit籀ria - RecordTV (ES)
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="Canal Aberto", Record
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvfeliz.png" group-title="Rio Grande do Norte", TV Feliz (RN)
-https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record - Miramar Angola
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/agitos.png" group-title="Rio Grande do Norte", CN Agitos (RN)
-http://wsemedia.com:1935/cn01/cn01/live.m3u8
+#EXTINF:-1 tvg-logo="http://simpleicon.com/wp-content/uploads/tv.png" group-title="Canais Abertos", Record News
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/viamorena.png" group-title="WEB TV",Via Morena
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3a211dd7faf0d079ae8a56582756ba78.jpg" group-title="TV/FECHADA",DISCOVERY  CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5ca825ee8f4036221d6d08a3f5c0e3eb.jpg" group-title="TV/FECHADA",ANIMAL PLANET
+http://185.152.66.81:25461/live/leticia/123456/1864.m3u8?token=SUZYUxZQRwJGAFoABVpTDwIFAQdXBAMCDVdYUQIADFQFXFRTVQFXD1QRFERGFhddV1loCFdHC1cMAw0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBddAFEIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA10HRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DClcAVhZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2d039a20a62f4fcb15ad2ff920e3a6e3.jpg" group-title="FILMES/SERIES",AXN HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.ts?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFhddV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/370b125af59fd4e55889d18e90bee860.jpg" group-title="FILMES/SERIES",FOX HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2160.ts?token=SUZYUxZQRwJGVl4FBlYACwEEBAdXBAACAARbVlABAQcGVlQAUF5TDAYRFERGFhddV1loCFdHC1QFAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGUQNWHkZAWwEaXxpdBQxSF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcNBQBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEDQcLBxMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6a7e2be680affdd1e207270c7ac51746.jpg" group-title="TV/FECHADA",Fox TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7258e8972e552982e52cfef8ca5b5671.jpg" group-title="TV/ABERTA",BAND VIA MY
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjapi.png" group-title="WEBTV",TV Japi
-http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c05f5f36969f5921c0e8de6dc49ee4a4.jpg" group-title="Noticias",GLOBO NEWS
+http://185.152.66.81:25461/live/ezequiel/12345/1809.m3u8?token=SUZYUxZQRwJGVVsEBwRRWwAHD1QEUQNfBAMJVwYEVwEDUQcDUAgEDVQRFERGFhddV1loCFdHC1cMBQAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdRBlAEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA1IDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQJVQMXRA==
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO",TV Faap
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f260d94a7b22d572e10f028c529b6406.jpg" group-title="Canais fechado",MULTISHOW
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnailha.png" group-title="Webtv",TV Na Ilha (filmes)
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/cinemais.jpg" group-title="CANAL ABERTO",Cine +
-https://live.sba1.com/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/litoralsul.png" group-title="Santa Catarina",Litoral Sul (SC)
-http://cdn2.w7virtual.net:1935/live/canal20/canal20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Alese.png" group-title="Sergipe",TV Alese (SE)
-http://digilab-live.hls.adaptive.level3.net/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvocultural.jpg" group-title="S瓊o Paulo",TV Ocultural (SP)
-https://cdn.jmvstream.com/live/hls/lv_826/LV826_q56cYjx1zN.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/plenitude.png" group-title="S瓊o Paulo",TV Plenitude (SP)
-http://site.paineldecontrole.info:1935/live/smil:plenitude.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/santacecilia.png" group-title="S瓊o Paulo",TV Santa Cec穩lia (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="WebTV",Gospel Movie TV
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/logo-mega-tv.png" group-title="S瓊o Paulo",MegaTV (SP)
-http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/horsebrasil.png" group-title="S瓊o Paulo",Horse Brasil Channel (SP)
-http://114544990.r.worldcdn.net/114544990/_definst_/horsebrasil2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="S瓊o Paulo",TV Itapetinga (SP)
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/04/Canalrural.png" group-title="S瓊o Paulo",Canal Rural (SP)
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="MEXICO",Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/realmadrid.png" group-title="Esportes",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/now.png" group-title="ESPORTES", NFL Now HD
-http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="ESPORTES", Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/1music.jpg" group-title="Categorias", 1Music
-http://92.249.129.152/stream/1music.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rtl.png" group-title="It獺lia", RTL (It獺lia)
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="It獺lia", RAI Movie (It獺lia)
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="KOREA",Arirang (Coreia)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cbn.png" group-title="RADIOS",CBN SP 90.5 FM - EST�DIO AO VIVO
-http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RADIOS",FM O DIA 100.5 - EST�DIO AO VIVO
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
