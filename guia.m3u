@@ -1,6 +1,7 @@
 #EXTM3U
 
-########################### Gospel
+#EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",NS Aparecida
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Altar Central
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
@@ -9,8 +10,6 @@ http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="AparecidaCSJ" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela de São José
-
-
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="AparecidaN" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Nicho
