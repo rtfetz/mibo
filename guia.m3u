@@ -58,6 +58,7 @@ http://apk222.futeboltv.com:8081/live/2/chunks.m3u8?MEGAMAXIPTV
 http://apk222.futeboltv.com:8081/live/16/playlist.m3u8?MEGAMAXIPTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/af5dd6b55d063edc48ef49699a8341a6.jpg" group-title="Esportes",ESPN Brasil
+
 http://apk222.futeboltv.com:8081/live/19/playlist.m3u8?MEGAMAXIPTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e4b401e28dd05b0f4dac3d7830b6072.jpg" group-title="Esportes",Esporte Interativo
@@ -96,6 +97,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="ESPORTES", Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e63017f76eb45071b0b1a1145b9a17e7.jpg" group-title="CANAIS",COMBATE
+http://185.152.66.81:25461/live/ezequiel/12345/1845.m3u8?token=SUZYUxZQRwJGVw9QAAAEDA4FU1JQAANWDAYKAlcAB1xXVFQGVQhTCwARFERGFhddV1loCFdHC1cMAQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1MCAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVQCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUA0MG04=
+
+
+
 
 ################################# CANAIS
 
