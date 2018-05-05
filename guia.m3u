@@ -1,24 +1,7 @@
 #EXTM3U
 
-################### CATOLICO
-
 #EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",NS Aparecida
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Altar Central
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AparecidaCS" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela do Santíssimo
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal3.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="AparecidaCSJ" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Capela de São José
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal4.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="AparecidaN" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Nicho
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="AparecidaVE" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",Visão Externa
-http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="AparecidaTV" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
@@ -49,6 +32,12 @@ http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFB
 
 
 ############################### ESPORTES
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Band Sports SD
+http://lb02-2.ipbr.tv:25461/live/az_iptvx64250/37516/243.ts?token=TRddVURbEg9EV1tVAF1SUVReUARTAgYEXgwBVAFcUFUDV1ZXVQNRAFQTTkBHEUNVAFU+WlETCwQMCx0UFkoARmlcURYNEQYDXgZAThYRWF0EGlsCAAMCBw8LAARTFUdEX1EXDllGXFlKEwcaQABDXgBUPldQR1hVXRoLWBZVCRgUWltrU1ZdVAhVQFgWVBMcQ1ESQxcLE2BRTl4WMBckGhQZF1ZeR0JUElRAWFoQXVxNGgJcQF9FREEaCxQha0cYFFBNQFJdQ1wJX0BYFhFCEk0aCEBqQ1RFTEpUVw5cFxYMFwUWGxFdVB5uAQ1aC1RTFVEOXUYTCxQJGh0UDlYLXUJaR2tHWlQXXF8XDlgY
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Band Sports HD
+http://lb02-2.ipbr.tv:25461/live/az_iptvx64250/37516/245.ts?token=TRddVURbEg9EUwNQDQdXCFZeVlUFAANTWQ4JVFRYVAEPBA0CBgICAVATTkBHEUNVAFU+WlETCwQMDR0UFkoARmlcURYNEQYDXgZAThYRWF0EGlsCAAMCBw8LAA9RFUdEX1EXDllGXFlKEwcaQABDXgBUPldQR1hVXRoLWBZVCRgUWltrU1ZdVAhVQFgWVBMcQ1ESQxcLE2BRTl4WMBckGhQZF1ZeR0JUElRAWFoQXVxNGgJcQF9FREEaCxQha0cYFFBNQFJdQ1wJX0BYFhFCEk0aCEBqQ1RFTEpUVw5cFxYMFwUWGxFdVB5uAQ1aC1RTFVEOXUYTCxQJGh0UDlYLXUJaR2tHWlQXXF8XDlgY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4f2552ee2eec42fb54e231319579535.jpg" group-title="Esportes",SporTV
 http://185.152.66.81:25461/live/ezequiel/12345/1738.m3u8?token=SUZYUxZQRwJGAVoHVFVTAFcEA1BSVQJeUQRcC1NVAVZQAQAEXAEAC1QRFERGFhddV1loCFdHC1cDBgEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXBlwFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1YBRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlwIVgwXRA
