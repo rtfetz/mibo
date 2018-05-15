@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="AparecidaAC" tvg-logo="https://goo.gl/rjQu2h" group-title="Gospel",NS Aparecida
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AparecidaTV" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
+#EXTINF:-1 tvg-name="AparecidaTV" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Gospel",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Gospel",Rede Vida
