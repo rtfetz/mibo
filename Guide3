@@ -18,6 +18,9 @@ http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-chann
 #EXTINF:-1,RS21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
+#EXTINF:-1, RECORD T1
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/130.ts
+
 #EXTINF:-1,A&E
 http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/691.m3u8
 
