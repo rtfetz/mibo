@@ -72,6 +72,9 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.
 #EXTINF:-1, REDE TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
+#EXTINF:-1, REDE TV o2
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+
 #EXTINF:-1, CULTURA
 http://177.73.84.49/hls/live/live.m3u8
 
@@ -90,6 +93,7 @@ http://185.152.66.81:25461/live/leticia/123456/1856.m3u8?token=SUZYUxZQRwJGAFsHV
 
 #EXTINF:-1, BAND SPORTS 04
 http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/370.ts?token=TxAMVEBeQwMQDwBZBFVSUg8BUAUBXVYBBAYAB1UHW1FWV1MCCwJZXAQUGxoRRRBRV1hpXFYbDwAGUh5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFoDXFFOFkINUREMQwsCAgUMQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwMABRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYCAQQGEEQ=
+
 
 
 #EXTINF:-1 , SPORTV
@@ -480,10 +484,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
 
 #EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="MUSICAS",Hist tv
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
-
-
-
-
 
 
 
