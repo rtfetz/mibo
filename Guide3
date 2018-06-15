@@ -20,6 +20,9 @@ http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-chann
 #EXTINF:-1,RS21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
+#EXTINF:-1, SPORTV 04
+http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3909.ts
+
 #EXTINF:-1, SPORTV O2
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3914.ts
 
