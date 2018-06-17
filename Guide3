@@ -20,8 +20,14 @@ http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-chann
 #EXTINF:-1,RS21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
-#EXTINF:-1, SPORTV_1
+#EXTINF:-1, SPORTV_1_ld
 http://apk.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1, SPORTV _1_hd
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3909.ts
+
+#EXTINF:-1, SPORTV _1_Sd
+http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3914.ts
 
 #EXTINF:-1, GLOBO RJ 
 http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/651.m3u8
