@@ -391,88 +391,6 @@ http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/633.m3u8
 http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/634.m3u8
 
 
-
-
-
-#EXTINF:-1,Music Choice
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1,MC Alternative
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-
-#EXTINF:-1,MC Brits + Hits
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-
-#EXTINF:-1,MC Dance
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-
-#EXTINF:-1,MC Hip-Hop And R&B
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-
-#EXTINF:-1,MC Hit
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-
-#EXTINF:-1,MC Indie
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-
-#EXTINF:-1,MC Metal
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-
-#EXTINF:-1,MC Pop & Country
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-
-#EXTINF:-1,MC Pop Hits
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-
-#EXTINF:-1,MC R&B Soul
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-
-#EXTINF:-1,MC Rap
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-
-#EXTINF:-1,MC Rap 2K
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-
-#EXTINF:-1,MC Rock
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-
-#EXTINF:-1,MC Today
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-
-#EXTINF:-1,MC 90
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-
-#EXTINF:-1,MC Throwback Jamz
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-
-#EXTINF:-1,MC Y2K
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-
-#EXTINF:-1,MC Mexicana
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-
-#EXTINF:-1,MC Musica Urbana
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-
-#EXTINF:-1,MC Pop Latino
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-
-#EXTINF:-1,MC Tropicales
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-
-#EXTINF:-1,MC Teen Beats
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-
-#EXTINF:-1,MC Kidz Only
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-
-#EXTINF:-1,MC Toddler Tunes
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="MUSICAS",Radio 105 Tv
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
@@ -505,12 +423,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
 
 #EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="MUSICAS",Hist tv
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
-
-
-
-
-
-
 
 
 
