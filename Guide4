@@ -1,0 +1,959 @@
+#EXTM3U
+
+#EXTINF:-1,TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1,Rede Vida 
+https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,TV Evangelizar
+http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1,Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1,Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+1
+#EXTINF:-1,Rede Século 21
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",FORMIGA WEBtv
+http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?FORMIGAtv.ts?formigaTV
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/9b/a5/VqgGwqoD_o.png"  group-title="FORMIGA WEBtv",FAST CINE
+http://stmv5.srvstm.com/fastcine/fastcine/playlist.m3u8?FORMIGAtv.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",AGRO ARASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",AMAZON SAT
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CANAL DO BOI
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV CARIRI
+http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CONEXAO BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",HORSE BRASIL
+http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",REDE BRASIL
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV DIARIO
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV ESCOLA
+http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV GERAL 
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?FORMIGAtv.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",SBT
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",RECORD ES-VITORIA
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",REDETV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",REDE NEWS
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV CAMARA
+http://stream2.camara.gov.br:80/tv1/manifest.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",RECORNEWS
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",ALJAZEERA
+http://aljazeera-eng-apple-live.adaptive.level3.net:80/apple/aljazeera/hq-english/1200kStream.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CBN
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",PLAY TV
+http://stmv1.euroti.com.br:1935/rafael5986/rafael5986/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",DJ Hits
+http://www.djing.com/tv/04.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",AD Sports 2 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",CINE CLARO
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",GOSPEL CARTOONS
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?FORMIGAtv.ts?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",Esporte Interativo 2
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?FORMIGAtv.ts?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",Esporte Interativo hd
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?FORMIGAtv.ts?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?FORMIGAtv.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="FORMIGA WEBtv",TV BRASIL
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?FORMIGAtv.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Filmes e Séries",Filmes e Séries
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://t.likeiptv.com/a&ehd.png" group-title="Filmes e Séries",A&E HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="http://t.likeiptv.com/a&e.png" group-title="Filmes e Séries",A&E SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4194.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4192.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7670.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Documentários",Documentários
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://t.likeiptv.com/animalplanethd.png" group-title="Documentários",Animal Planet HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="http://t.likeiptv.com/animalplanet.png" group-title="Documentários",Animal Planet SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4191.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Variedades",Variedades
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Variedades",Arte 1 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4582.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Filmes e Séries",AXN HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4185.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://t.likeiptv.com/axnhd.png" group-title="Filmes e Séries",AXN SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4186.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Abertos",Abertos
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil HD" tvg-logo="http://t.likeiptv.com/agrobrasil.png" group-title="Abertos",Agro Brasil HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3099.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Infantil",Infantil
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV SD" tvg-logo="http://t.likeiptv.com/baby.png" group-title="Infantil",Baby TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="" group-title="Abertos",Band
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4628.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band SD" tvg-logo="http://t.likeiptv.com/BAND.png" group-title="Abertos",Band SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7631.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND Nordeste HD" tvg-logo="" group-title="Abertos",BAND Nordeste HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="http://t.likeiptv.com/BANDHD.png" group-title="Abertos",Band SP HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4183.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Esportes",Esportes
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/04/BandSports-HD_Logotipo.png" group-title="Esportes",Band Sports HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://t.likeiptv.com/bandsport.png" group-title="Esportes",Band Sports SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4179.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Notícias",Notícias
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Notícias",Band News HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://t.likeiptv.com/BANDNEWS.png" group-title="Notícias",Band News SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4180.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Música e Entretenimento",Música e Entretenimento
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4174.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4175.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg" group-title="Internacional",Internacional
+http://br1.e-tv.xyz:8081/live/likeilimit73abfgbgbd98o/IyueprGqz2/4193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV HD" tvg-logo="http://t.likeiptv.com/bloo.png" group-title="Internacional",Bloomberg TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/1891.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade TV SD" tvg-logo="http://t.likeiptv.com/boavontade.png" group-title="Abertos",Boa Vontade TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://t.likeiptv.com/Boomerang.png" group-title="Infantil",Boomerang HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="http://t.likeiptv.com/Boomerang.png" group-title="Infantil",Boomerang SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://t.likeiptv.com/canalrural.png" group-title="Abertos",Canal Rural SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4168.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Religiosos",Religiosos
+http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?FORMIGAtv.ts?formigaTV
+#EXTINF:-1 tvg-id="" tvg-name="Canal RBI" tvg-logo="" group-title="Religiosos",Canal RBI
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Infantil",Cartoon Network HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Infantil",Cartoon Network SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4166.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://t.likeiptv.com/cinemaxhd.png" group-title="Filmes e Séries",Cinemax HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4162.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://t.likeiptv.com/cinemax1080.png" group-title="Filmes e Séries",Cinemax SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4163.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="USA",USA
+http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?FORMIGAtv.ts?formigaTV
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="USA",CNN International
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4161.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN International SD" tvg-logo="http://t.likeiptv.com/cnnint.png" group-title="Internacional",CNN International SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3140.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SD" tvg-logo="" group-title="USA",CNT SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4160.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate Full HD" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Esportes",Combate Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Esportes",Combate HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/5617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Esportes",Combate SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="Filmes e Séries",Comedy Central HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4603.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD" tvg-logo="" group-title="Filmes e Séries",Comedy Central SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7629.ts
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA SP HD" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Abertos",CULTURA SP HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7695.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura BA HD" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Abertos",TV Cultura BA HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6898.ts
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA NORDESTE" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Abertos",CULTURA NORDESTE
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cultura SD" tvg-logo="http://t.likeiptv.com/culturaoriginal.png" group-title="Abertos",Cultura SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curta! SD" tvg-logo="http://t.likeiptv.com/curta.png" group-title="Variedades",Curta! SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Documentários",Discovery Channel HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Documentários",Discovery Channel SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="" group-title="Documentários",Discovery Civilization HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4581.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization SD" tvg-logo="" group-title="Documentários",Discovery Civilization SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4600.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://images.mi.tv/channels/br_discovery-home-health-hd_m.png" group-title="Variedades",Discovery Home & Health HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://t.likeiptv.com/discoverryhome.png" group-title="Variedades",Discovery Home & Health SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://prime.hdbr.me:8081/live/andiptv/p97r1fW9lX/23.ts" group-title="Infantil",Discovery Kids HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="http://t.likeiptv.com/discoverykids.png" group-title="Infantil",Discovery Kids SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://t.likeiptv.com/discoverryscience.png" group-title="Documentários",Discovery Science HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD" tvg-logo="http://t.likeiptv.com/discoverryscience.png" group-title="Filmes e Séries",Discovery Science SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7633.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://t.likeiptv.com/Discoverytheater.png" group-title="Documentários",Discovery Theater HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4148.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://t.likeiptv.com/discoverryturbo.png" group-title="Documentários",Discovery Turbo HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD" tvg-logo="http://t.likeiptv.com/discoverryturbo.png" group-title="Documentários",Discovery Turbo SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://t.likeiptv.com/discoverworld.png" group-title="Documentários",Discovery World HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://t.likeiptv.com/disney%20channel.png" group-title="Infantil",Disney Channel HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD" tvg-logo="http://t.likeiptv.com/disney%20channel.png" group-title="Infantil",Disney Channel SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR HD" tvg-logo="http://t.likeiptv.com/disneyjunior10.png" group-title="Infantil",Disney JR HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR SD" tvg-logo="" group-title="Infantil",Disney JR SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="http://t.likeiptv.com/disneyxd.png" group-title="Infantil",Disney XD SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4140.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="Variedades",E! HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4137.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="" group-title="Variedades",E! SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4138.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx HD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4133.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx SD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4136.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 HD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4134.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2 SD" tvg-logo="http://t.likeiptv.com/eimax.png" group-title="Esportes",EI Maxx 2 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4135.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="http://t.likeiptv.com/espnhdbranco.jpg" group-title="Esportes",ESPN  HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4128.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="http://t.likeiptv.com/espnbranco.jpg" group-title="Esportes",ESPN SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4132.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ HD" tvg-logo="http://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="Esportes",ESPN+ HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6611.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + SD" tvg-logo="" group-title="Esportes",ESPN + SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/5620.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://t.likeiptv.com/espnbrasilfullhd.jpg" group-title="Esportes",ESPN Brasil HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4130.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD" tvg-logo="http://t.likeiptv.com/espnbrasiloriginal.jpg" group-title="Esportes",ESPN Brasil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4131.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="Esportes",ESPN EXTRA HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2013/01/esporte-interativo.png" group-title="Esportes",Esporte Interativo HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo SD" tvg-logo="http://t.likeiptv.com/esporteinterativooriginal.jpg" group-title="Esportes",Esporte Interativo SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://t.likeiptv.com/esporteinterativooriginal.jpg" group-title="Esportes",Esporte Interativo 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4126.ts
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD" tvg-logo="" group-title="Variedades",FISH TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4125.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="Variedades",FOOD NETWORK HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4123.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD" tvg-logo="" group-title="Variedades",FOOD NETWORK SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4124.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://t.likeiptv.com/foxhd.png" group-title="Filmes e Séries",FOX HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox SD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Filmes e Séries",Fox SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png" group-title="Filmes e Séries",Fox Life HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life SD" tvg-logo="http://t.likeiptv.com/lifenovo.png" group-title="Filmes e Séries",Fox Life SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="" group-title="Filmes e Séries",Fox 1 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="" group-title="Filmes e Séries",Fox Premium 1 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://t.likeiptv.com/fp2.png" group-title="Filmes e Séries",Fox Premium 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://t.likeiptv.com/foxsporthd.png" group-title="Esportes",Fox Sports HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports SD" tvg-logo="http://t.likeiptv.com/foxsport.png" group-title="Esportes",Fox Sports SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://t.likeiptv.com/foxsport2hd.png" group-title="Esportes",Fox Sports 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="http://t.likeiptv.com/foxsport2.png" group-title="Esportes",Fox Sports 2 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://t.likeiptv.com/futura.png" group-title="Abertos",Futura SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4112.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://t.likeiptv.com/fxhd.png" group-title="Filmes e Séries",FX HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4110.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://t.likeiptv.com/fx.png" group-title="Filmes e Séries",FX SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional Full HD" tvg-logo="http://recrutadores.com.br/wp-content/uploads/2016/11/tv-globo-international-logo.png" group-title="Abertos",Globo Internacional Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7620.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste Full HD" tvg-logo="" group-title="Abertos",Globo Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Nordeste SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Nordeste HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4632.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/2000px-TV_Gazeta_logo.svg.png" group-title="Abertos",TV Gazeta ES HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7610.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/2000px-TV_Gazeta_logo.svg.png" group-title="Abertos",TV Gazeta SP HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Curitiba HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Curitiba HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Minas HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Brasilia HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Brasilia SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Rio HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Rio SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo SP HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo SP SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4098.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SÃO JOSÉ DOS CAMPOS SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",GLOBO SÃO JOSÉ DOS CAMPOS SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7708.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",GLOBO INTER TV CABUGI SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7706.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZÔNICA MANAUS SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",GLOBO AMAZÔNICA MANAUS SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Bahia HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraná HD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",Globo Paraná HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7607.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Abertos",EPTV Campinas
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4630.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPTV RIBEIRÃO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Abertos",EPTV RIBEIRÃO PRETO SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="" group-title="Notícias",Globo News HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://t.likeiptv.com/GLOBONEWS.png" group-title="Notícias",Globo News SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional SD" tvg-logo="http://recrutadores.com.br/wp-content/uploads/2016/11/tv-globo-international-logo.png" group-title="Abertos",Globo Internacional SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="" group-title="Abertos",Globo Premium
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="" group-title="Infantil",Gloob HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="" group-title="Infantil",Gloob SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4095.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="" group-title="Variedades",GNT HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4092.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="" group-title="Variedades",GNT SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4093.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://t.likeiptv.com/h2hd.png" group-title="Documentários",H2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4078.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="http://t.likeiptv.com/h2.PNG" group-title="Documentários",H2 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4091.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Filmes e Séries",HBO HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4085.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://t.likeiptv.com/hbo.png" group-title="Filmes e Séries",HBO SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4090.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Filmes e Séries",HBO 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4088.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://t.likeiptv.com/hbo2.png" group-title="Filmes e Séries",HBO 2 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4089.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Filmes e Séries",HBO Family HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4086.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://t.likeiptv.com/hbofamilia.png" group-title="Filmes e Séries",HBO Family SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4087.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Filmes e Séries",HBO Plus HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4082.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4084.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E SD" tvg-logo="http://t.likeiptv.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus E SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4083.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Filmes e Séries",HBO Signature HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4080.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://t.likeiptv.com/hbosignature1.png" group-title="Filmes e Séries",HBO Signature SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4081.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="http://t.likeiptv.com/idhd1.png" group-title="Filmes e Séries",ID HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4074.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SD" tvg-logo="http://t.likeiptv.com/id.png" group-title="Filmes e Séries",ID SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4075.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Filmes e Séries",LIFETIME HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="http://t.likeiptv.com/lifetime.png" group-title="Filmes e Séries",Lifetime SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4070.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="" group-title="Variedades",Mais Globosat HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4067.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat SD" tvg-logo="" group-title="Variedades",Mais Globosat SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4068.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="http://t.likeiptv.com/maxhd.png" group-title="Filmes e Séries",MAX HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4065.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="http://t.likeiptv.com/max.png" group-title="Filmes e Séries",MAX SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4066.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Filmes e Séries",MAX Prime HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4062.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime E SD" tvg-logo="http://t.likeiptv.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime E SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max UP HD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Filmes e Séries",Max UP HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max UP SD" tvg-logo="http://t.likeiptv.com/maxup1.png" group-title="Filmes e Séries",Max UP SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Filmes e Séries",Megapix HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="http://t.likeiptv.com/megap.png" group-title="Filmes e Séries",Megapix SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4059.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Música e Entretenimento",MTV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4056.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="" group-title="Música e Entretenimento",MTV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="" group-title="Música e Entretenimento",Multishow HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="" group-title="Música e Entretenimento",Multishow SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="" group-title="Música e Entretenimento",Music Box Brazil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4607.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="" group-title="Infantil",NatGeo Kids HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4053.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids SD" tvg-logo="" group-title="Infantil",NatGeo Kids SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4052.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="http://t.likeiptv.com/natwildhd.png" group-title="Documentários",NatGeo Wild HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4049.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild SD" tvg-logo="http://t.likeiptv.com/natgeowild1.png" group-title="Documentários",NatGeo Wild SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4050.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://t.likeiptv.com/nationalhd.png" group-title="Documentários",National Geographic HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4047.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="http://t.likeiptv.com/nacionalgeo.png" group-title="Documentários",National Geographic SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4048.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBR SD" tvg-logo="" group-title="Variedades",NBR SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4620.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Premium" tvg-logo="" group-title="Esportes",NHK World Premium
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="" group-title="Infantil",Nick Jr. HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="" group-title="Infantil",Nick Jr HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. SD" tvg-logo="" group-title="Infantil",Nick Jr. SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Infantil",Nickelodeon HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="" group-title="Infantil",Nickelodeon SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="" group-title="Variedades",Off HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="http://t.likeiptv.com/canaloff.png" group-title="Variedades",Off SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Filmes e Séries",Paramount HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount SD" tvg-logo="http://t.likeiptv.com/paramouth.png" group-title="Filmes e Séries",Paramount SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Play HD" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Play HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="" group-title="Música e Entretenimento",Play TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4034.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/x4CgpuC.jpg"  group-title="Adultos",Adultos
+http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?FORMIGAtv.ts?formigaTV
+#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="" group-title="Adultos",Playboy HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4033.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="" group-title="Adultos",PLAYBOY SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/5623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="" group-title="Variedades",Polishop TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premiere Clubes HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 1 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 SD" tvg-logo="" group-title="Esportes",Premiere 1 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Esportes",Premiere 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 2 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premiere 3 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 3 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premiere 4 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 4 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premiere 5 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 5 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premiere 6 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premiere 6 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 7 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4023.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="" group-title="Esportes",Premiere 7 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 8 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 SD" tvg-logo="http://t.likeiptv.com/premiere.png" group-title="Esportes",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4021.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="Esportes",PFC SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7636.ts
+#EXTINF:-1 tvg-id="" tvg-name="Primebox Brasil SD" tvg-logo="http://t.likeiptv.com/primebox.png" group-title="Filmes e Séries",Primebox Brasil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",Record HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3933.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SD" tvg-logo="" group-title="Abertos",RECORD TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/5621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",Record Nordeste HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7684.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP Hd" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",RECORD SP Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Internacional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Rede_Record_logo_2013.png/revision/latest?cb=20161202204831" group-title="Abertos",Record Internacional
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7641.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Notícias",Record News HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://t.likeiptv.com/recordnewshd.png" group-title="Abertos",Record News SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Família HD (Record News Campinas)" tvg-logo="http://t.likeiptv.com/redefamilia.png" group-title="Abertos",Rede Família HD (Record News Campinas)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6928.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória (Record ES) SD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",TV Vitória (Record ES) SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6891.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIC TV (Record Curitiba) SD" tvg-logo="http://t.likeiptv.com/rictv.png" group-title="Abertos",RIC TV (Record Curitiba) SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6894.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIC TV Maringá ( Record ) SD" tvg-logo="http://t.likeiptv.com/rictv.png" group-title="Abertos",RIC TV Maringá ( Record ) SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6896.ts
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal HD" tvg-logo="http://t.likeiptv.com/universaldejesus.png" group-title="Abertos",Igreja Universal HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6906.ts
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal SD" tvg-logo="http://t.likeiptv.com/igrejauniversal.png" group-title="Abertos",Igreja Universal SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4073.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBC - Rede Brasil de Comunicação" tvg-logo="http://tv.redebrasiloficial.com.br/images/logotv.svg" group-title="Abertos",RBC - Rede Brasil de Comunicação
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil SD" tvg-logo="http://rbtv.com.br/aovivo/images/logotipo.png" group-title="Abertos",Rede Brasil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="http://t.likeiptv.com/redetv10.png" group-title="Abertos",Rede TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3929.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV SD" tvg-logo="" group-title="Abertos",Rede TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="http://t.likeiptv.com/redevida.png" group-title="Abertos",Rede Vida SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3930.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="http://t.likeiptv.com/sbt.png" group-title="Abertos",SBT HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3926.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Recife HD" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT Recife HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6890.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Goiás HD" tvg-logo="http://t.likeiptv.com/sbt.png" group-title="Abertos",SBT Goiás HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7690.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT GO
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6921.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Rondonia" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT Rondonia
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3923.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Piauí HD (TV Cidade Verde)" tvg-logo="http://t.likeiptv.com/sbt.png" group-title="Abertos",SBT Piauí HD (TV Cidade Verde)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Jornal HD (Filiada da SBT Pernambuco - Interior)" tvg-logo="http://t.likeiptv.com/tvjornal.jpg" group-title="Abertos",Tv Jornal HD (Filiada da SBT Pernambuco - Interior)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6919.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="http://t.likeiptv.com/sonnyhd.png" group-title="Filmes e Séries",Canal Sony HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony SD" tvg-logo="http://t.likeiptv.com/canalsonynovo.png" group-title="Filmes e Séries",Sony SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://t.likeiptv.com/spaacehd.png" group-title="Filmes e Séries",Space HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="http://t.likeiptv.com/space.png" group-title="Filmes e Séries",Space SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",Sportv HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3909.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3914.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3912.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 2 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3913.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 3 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3910.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV 3 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3911.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="Esportes",SPORTV 4 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://t.likeiptv.com/uhd.png" group-title="Filmes e Séries",Studio Universal HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3907.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal SD" tvg-logo="http://t.likeiptv.com/studio.png" group-title="Filmes e Séries",Studio Universal SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3908.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://t.likeiptv.com/syhd.png" group-title="Filmes e Séries",Syfy HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3905.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="http://t.likeiptv.com/sy.png" group-title="Filmes e Séries",SYFY SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3906.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://t.likeiptv.com/tbshd.png" group-title="Filmes e Séries",TBS HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3903.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://t.likeiptv.com/tbs.png" group-title="Filmes e Séries",TBS SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3904.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="http://t.likeiptv.com/tcm.png" group-title="Filmes e Séries",TCM SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3902.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="" group-title="Filmes e Séries",Telecine Action HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3900.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="" group-title="Filmes e Séries",Telecine Action SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3901.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="" group-title="Filmes e Séries",Telecine Cult HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="" group-title="Filmes e Séries",Telecine Cult SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3899.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="" group-title="Filmes e Séries",Telecine Fun HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3896.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="" group-title="Filmes e Séries",Telecine Fun SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3894.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Séries",Telecine Premium HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="" group-title="Filmes e Séries",Telecine Premium SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="" group-title="Filmes e Séries",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="" group-title="Filmes e Séries",Telecine Touch SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3891.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://t.likeiptv.com/historyhd1.png" group-title="Documentários",The History Channel HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4077.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel SD" tvg-logo="http://t.likeiptv.com/hnovo.png" group-title="Documentários",The History Channel SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4079.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Variedades",TLC HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3888.ts
+#EXTINF:-1 tvg-id="TLC SD" tvg-name="TLC SD" tvg-logo="" group-title="Variedades",TLC SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3889.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Filmes e Séries",TNT HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3886.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://t.likeiptv.com/tnt.png" group-title="Filmes e Séries",TNT SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3887.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Filmes e Séries",TNT Series HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3884.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series SD" tvg-logo="http://t.likeiptv.com/tntseries.png" group-title="Filmes e Séries",TNT Series SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="" group-title="Infantil",Tooncast HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3882.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="" group-title="Infantil",Tooncast SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3883.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 1 HD" tvg-logo="" group-title="Filmes e Séries",TV CINE 1 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7624.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 2 HD" tvg-logo="" group-title="Filmes e Séries",TV CINE 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7625.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE  3 HD" tvg-logo="" group-title="Filmes e Séries",TV CINE  3 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7626.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 4 HD" tvg-logo="" group-title="Filmes e Séries",TV CINE 4 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7627.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara HD" tvg-logo="http://t.likeiptv.com/tvcamara.png" group-title="Abertos",TV Camara HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6905.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="" group-title="Abertos",Tv Camara
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4622.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Canção Nova SD" tvg-logo="http://t.likeiptv.com/CANCANOVA.png" group-title="Abertos",TV Canção Nova SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4167.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil SD" tvg-logo="http://t.likeiptv.com/tvbrasil.png" group-title="Abertos",TV Brasil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3878.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA" tvg-logo="http://t.likeiptv.com/tvjustica.png" group-title="Abertos",TV JUSTICA
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Escola" tvg-logo="" group-title="Variedades",Tv Escola
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4621.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra-tim-bum SD" tvg-logo="" group-title="Infantil",TV Ra-tim-bum SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4595.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Largo (Maceió) SD" tvg-logo="http://t.likeiptv.com/riolargo.png" group-title="Abertos",TV Rio Largo (Maceió) SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6932.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://t.likeiptv.com/tvsenado.png" group-title="Abertos",TV SENADO
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="" group-title="Filmes e Séries",Universal Channel HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD" tvg-logo="" group-title="Filmes e Séries",Universal Channel SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3872.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="Música e Entretenimento",VH1 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3870.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits HD" tvg-logo="" group-title="Música e Entretenimento",VH1 Megahits HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4610.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits SD" tvg-logo="" group-title="Música e Entretenimento",VH1 Mega Hits SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="" group-title="Variedades",Viva HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3867.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="" group-title="Variedades",Viva
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Filmes e Séries",Warner Channel HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="" group-title="Filmes e Séries",Warner Channel SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4618.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="" group-title="Variedades",Woohoo
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3864.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares (CE) SD" tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="Abertos",TV Verdes Mares (CE) SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trutv SD" tvg-logo="" group-title="Variedades",Trutv SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3881.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Mar (Alagoas)" tvg-logo="http://t.likeiptv.com/tvmar.png" group-title="Abertos",TV Mar (Alagoas)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6931.ts
+#EXTINF:-1 tvg-id="" tvg-name="90s" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",90s
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brits   Hits" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Brits   Hits
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3064.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://t.likeiptv.com/CANCANOVA.png" group-title="Abertos",CANÇÃO NOVA HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alternative" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Alternative
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3065.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON RETRO SD" tvg-logo="" group-title="Infantil",CARTOON RETRO SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4597.ts
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel HD" tvg-logo="http://t.likeiptv.com/cmc.png" group-title="Música e Entretenimento",California Music Channel HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3086.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://t.likeiptv.com/combate.png" group-title="Esportes",Combate
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dance/EDM" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Dance/EDM
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Comunitario" tvg-logo="" group-title="Abertos",Canal Comunitario
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein 10 SD" tvg-logo="" group-title="Esportes",Bein 10 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7672.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém" tvg-logo="https://portalquem.files.wordpress.com/2013/03/tv-liberal.png" group-title="Abertos",TV Liberal Belém
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globinho HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Tv_globinho_2009.png" group-title="Infantil",Globinho HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7707.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aperipê HD (Sergipe)" tvg-logo="http://t.likeiptv.com/aperipe.png" group-title="Abertos",TV Aperipê HD (Sergipe)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6910.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo HD" tvg-logo="http://t.likeiptv.com/novotempo.png" group-title="Abertos",TV Novo Tempo HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6900.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova Esperança SD (Maranhão)" tvg-logo="http://t.likeiptv.com/tvnovaesperanca.png" group-title="Abertos",TV Nova Esperança SD (Maranhão)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6893.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="http://t.likeiptv.com/tvevangelizar.png" group-title="Religiosos",TV Evangelizar SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3107.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário Fortaleza SD" tvg-logo="" group-title="Abertos",TV Diário Fortaleza SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6885.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD" tvg-logo="http://t.likeiptv.com/tvaparecida.png" group-title="Abertos",TV Aparecida SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3879.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV INES HD" tvg-logo="http://t.likeiptv.com/tvines.png" group-title="Abertos",TV INES HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Rock
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3053.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC TV HD" tvg-logo="http://t.likeiptv.com/sicoriginal.png" group-title="Internacional",SIC TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/1895.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV INES" tvg-logo="http://t.likeiptv.com/tvines.png" group-title="Abertos",TV INES
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3876.ts
+#EXTINF:-1 tvg-id="" tvg-name="ShopTime SD" tvg-logo="" group-title="Variedades",ShopTime SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4608.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional SD" tvg-logo="" group-title="Internacional",SIC Internacional SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3919.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://t.likeiptv.com/SBT.png" group-title="Abertos",SBT
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rap 2K" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Rap 2K
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rap" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Rap
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Latino" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Pop Latino
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3046.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD" tvg-logo="http://t.likeiptv.com/rtp.png" group-title="Internacional",RTP 1 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/1901.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FULL HD" tvg-logo="http://t.likeiptv.com/redbull.png" group-title="Internacional",Red Bull TV FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/786.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="http://t.likeiptv.com/rtp2.png" group-title="Internacional",RTP 2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/1900.ts
+#EXTINF:-1 tvg-id="" tvg-name="QVC FULL HD" tvg-logo="http://t.likeiptv.com/qvchd.png" group-title="Internacional",QVC FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3084.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Pop Hits
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3057.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPTV SÃO CARLOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Abertos",EPTV SÃO CARLOS SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop & Country" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Pop & Country
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3058.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV HD" tvg-logo="" group-title="Música e Entretenimento",HIT TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="" group-title="Música e Entretenimento",Prime Box Brazil SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="http://t.likeiptv.com/novotempo.png" group-title="Abertos",Novo Tempo SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4040.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Milagre" tvg-logo="https://static.tvmilagre.com.br/assets/images/marca.png" group-title="Religiosos",TV Milagre
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Musica Urbana" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Musica Urbana
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3047.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD" tvg-logo="" group-title="Música e Entretenimento",NRJ Hits HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Metal
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mexicana" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Mexicana
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3048.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="Abertos",RBS TV Porto Alegre SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4631.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="" group-title="Música e Entretenimento",HIT TV
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/5471.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hop/R&B" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Hip Hop/R&B
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3062.ts
+#EXTINF:-1 tvg-id="" tvg-name="Indie" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Indie
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kidz Only!" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Kidz Only!
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hit List" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Hit List
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3061.ts
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV SD" tvg-logo="http://t.likeiptv.com/iurd.png" group-title="Religiosos",IURD TV SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV HD" tvg-logo="http://t.likeiptv.com/jasmintv.png" group-title="Adultos",Jasmin TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot TV" tvg-logo="" group-title="Adultos",Hot TV
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4585.ts
+#EXTINF:-1 tvg-id="" tvg-name="G2P TV HD" tvg-logo="http://t.likeiptv.com/g2ptv.png" group-title="Abertos",G2P TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6901.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV HD" tvg-logo="" group-title="Adultos",Dorcel TV HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4584.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo SD" tvg-logo="http://t.likeiptv.com/terceiroanjo.png" group-title="Religiosos",TV Terceiro Anjo SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3102.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Século 21 SD" tvg-logo="http://t.likeiptv.com/tvseculo.png" group-title="Religiosos",TV Século 21 SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6922.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/69/20150630212208%21TV_TEM.png" group-title="Abertos",TV TEM Bauru HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7612.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="" group-title="Música e Entretenimento",VH1 Megahits
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3869.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVW HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Internacional",TVW HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3083.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVW-2 HD" tvg-logo="http://t.likeiptv.com/tvw.png" group-title="Internacional",TVW-2 HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Gideoes" tvg-logo="http://t.likeiptv.com/tvgideoes.png" group-title="Abertos",Tv Gideoes
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Throwback Jamz" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Throwback Jamz
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teen Beats" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Teen Beats
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Today's Country" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Today's Country
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://t.likeiptv.com/musicoriginal.png" group-title="Música e Entretenimento",Y2K
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3049.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="" group-title="Filmes e Séries",A&E Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7892.ts
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="AMC Full HD" tvg-logo="" group-title="Filmes e Séries",AMC Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7898.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Full HD" tvg-logo="" group-title="Documentários",Animal Planet Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7883.ts
+#EXTINF:-1 tvg-id="AXN Full HD" tvg-name="AXN Full HD" tvg-logo="" group-title="Filmes e Séries",AXN Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv Full Hd" tvg-logo="" group-title="Infantil",Baby Tv Full Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste Full HD" tvg-logo="" group-title="Abertos",Band Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang Full HD" tvg-logo="" group-title="Infantil",Boomerang Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7890.ts
+#EXTINF:-1 tvg-id="Canal OFF Full HD" tvg-name="Canal OFF Full HD" tvg-logo="" group-title="Variedades",Canal OFF Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Full HD" tvg-logo="" group-title="Infantil",Cartoon Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Variedades",Discovery Channel Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Full HD" tvg-logo="" group-title="Infantil",Discovery Kids Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Filmes e Séries",Discovery Turbo Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR Full HD" tvg-logo="" group-title="Infantil",Disney JR Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7891.ts
+#EXTINF:-1 tvg-id="" tvg-name="Espn Brasil Full HD" tvg-logo="" group-title="Esportes",Espn Brasil Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7882.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo Full HD" tvg-logo="" group-title="Esportes",Esporte Interativo Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7881.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FULL HD (USA)" tvg-logo="http://t.likeiptv.com/eurosport.png" group-title="USA",Eurosport 1 FULL HD (USA)
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network Full HD" tvg-logo="" group-title="Variedades",Food Network Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Full HD" tvg-logo="http://t.likeiptv.com/fox.png" group-title="Filmes e Séries",Fox Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7701.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life Full Hd" tvg-logo="" group-title="Filmes e Séries",FOX Life Full Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8677.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 1 Full Hd" tvg-logo="" group-title="Filmes e Séries",FOX Premium 1 Full Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8678.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 2 Full Hd" tvg-logo="" group-title="Filmes e Séries",FOX Premium 2 Full Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8679.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Full Hd" tvg-logo="" group-title="Esportes",FOX Sports 2 Full Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8680.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS Full HD" tvg-logo="http://t.likeiptv.com/foxsport.png" group-title="Esportes",FOX SPORTS Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7703.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX Full HD" tvg-logo="" group-title="Filmes e Séries",FX Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8681.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Full HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Filmes e Séries",HBO Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7704.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER FULL HD" tvg-logo="" group-title="Adultos",HUSTLER FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/6883.ts
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC FULL HD" tvg-logo="http://t.likeiptv.com/msnbc.png" group-title="Internacional",MSNBC FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow Full HD" tvg-logo="" group-title="Variedades",Multishow Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7889.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Full HD" tvg-logo="" group-title="Documentários",Nat Geo Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7887.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD Full Hd" tvg-logo="" group-title="Documentários",NAT GEO WILD Full Hd
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8682.ts
+#EXTINF:-1 tvg-id="NatGeoKids Full HD" tvg-name="NatGeoKids Full HD" tvg-logo="" group-title="Infantil",NatGeoKids Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7894.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 12 (Brooklyn) FULL HD" tvg-logo="http://t.likeiptv.com/news12.png" group-title="Internacional",News 12 (Brooklyn) FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR Full HD" tvg-logo="" group-title="Infantil",Nick JR Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7880.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova Nordeste Full HD" tvg-logo="" group-title="Abertos",Nova Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7874.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Arizona FULL HD" tvg-logo="http://t.likeiptv.com/pac122.png" group-title="Internacional",PAC 12 Arizona FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/798.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Bay Area FULL HD" tvg-logo="http://t.likeiptv.com/pac122.png" group-title="Internacional",PAC 12 Bay Area FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/797.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Los Angeles FULL HD" tvg-logo="http://t.likeiptv.com/pac122.png" group-title="Internacional",PAC 12 Los Angeles FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/796.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Whashington FULL HD" tvg-logo="http://t.likeiptv.com/pac122.png" group-title="Internacional",PAC 12 Whashington FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/793.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 National FULL HD" tvg-logo="http://t.likeiptv.com/pac12national.png" group-title="Internacional",PAC-12 National FULL HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Full HD" tvg-logo="" group-title="Adultos",Penthouse Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premieres Clubes Full HD" tvg-logo="http://t.likeiptv.com/premierehd.png" group-title="Esportes",Premieres Clubes Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Full HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",Record Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Internacional Full HD" tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/Rede-Record1.png" group-title="Abertos",Record Internacional Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste Full HD" tvg-logo="" group-title="Abertos",Record Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7875.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste Full HD" tvg-logo="" group-title="Abertos",SBT Nordeste Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7872.ts
+#EXTINF:-1 tvg-id="" tvg-name="SexyZone Full HD" tvg-logo="" group-title="Adultos",SexyZone Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space Full HD" tvg-logo="" group-title="Filmes e Séries",Space Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7884.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Full HD" tvg-logo="http://t.likeiptv.com/sportvoriginal.png" group-title="Esportes",SporTV Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7699.ts
+#EXTINF:-1 tvg-id="Studio Universal Full HD" tvg-name="Studio Universal Full HD" tvg-logo="" group-title="Filmes e Séries",Studio Universal Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7896.ts
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SyFy Full HD" tvg-logo="" group-title="Filmes e Séries",SyFy Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7899.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action Full HD" tvg-logo="" group-title="Filmes e Séries",Telecine Action Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca Full HD" tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium Full HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Séries",Telecine Premium Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch Full HD" tvg-logo="" group-title="Filmes e Séries",Telecine Touch Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7886.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel Full HD" tvg-logo="http://t.likeiptv.com/historyhd1.png" group-title="Documentários",The History Channel Full HD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7702.ts
+
