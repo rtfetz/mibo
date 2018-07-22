@@ -21,5 +21,5 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 #EXTINF:-1,Record
 https://dpmia01.gcdn.co/066/myStream/playlist.m3u8
 
-#extinf:-1, RECORD2
+#EXTINF:-1, RECORD2
 http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
