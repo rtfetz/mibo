@@ -6,6 +6,14 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1,TV Aparecida n2
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
+#EXTINF:-1,TV Aparecida n3
+http://caikron.com.br:1935/tvap/tvap.stream/live.m3u8
+
+
+
+
+
+
 #EXTINF:-1,Rede Vida 
 https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/playlist.m3u8
 
