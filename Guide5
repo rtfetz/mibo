@@ -42,7 +42,8 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/196.m3u8
 #EXTINF:-1, AXN
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/120.m3u8
 
-
+#EXTINF:-1, MEGAPIX
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/59.m3u8
 
 #EXTINF:-1,Yeeah!
 http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -342,8 +343,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/57.m3u8
 #EXTINF:-1, C58
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/58.m3u8
 
-#EXTINF:-1, C59
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/59.m3u8
 
 #EXTINF:-1, C60
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/60.m3u8
