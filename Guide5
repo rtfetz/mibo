@@ -39,6 +39,11 @@ http://cdn.iptvbr.tv:8080/live/educostainfor@/YE3vivTYke/242.m3u8
 #EXTINF:-1, RECORD 6
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/196.m3u8
 
+#EXTINF:-1, AXN
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/120.m3u8
+
+
+
 #EXTINF:-1,Yeeah!
 http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -521,8 +526,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/118.m3u8
 #EXTINF:-1, C119
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/119.m3u8
 
-#EXTINF:-1, C120
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/120.m3u8
 
 #EXTINF:-1, C121
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/121.m3u8
