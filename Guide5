@@ -21,6 +21,9 @@ http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-chann
 #EXTINF:-1,Rede Século 21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
+#EXTINF:-1, Record Tv
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/39.m3u8
+
 #EXTINF:-1,Record
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/39.m3u8
 
@@ -283,8 +286,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/37.m3u8
 #EXTINF:-1, C38
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/38.m3u8
 
-#EXTINF:-1, C39
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/39.m3u8
 
 #EXTINF:-1, C40
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/40.m3u8
