@@ -9,6 +9,11 @@ http://177.12.99.108:8000/play/a006?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,TV Evangelizar
 http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 
+#EXTINF:-1,Gospel Music TV 
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
 #EXTINF:-1,Canção Nova HD
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
