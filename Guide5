@@ -65,7 +65,7 @@ http://177.12.99.108:8000/play/a00v
 http://177.12.99.108:8000/play/a008
 #EXTINF:-1,21 - Canal Futura HD
 http://177.12.99.108:8000/play/a00l
-#EXTINF:-1,19 - Tv NBR
+#EXTINF:-1,Canção Nova Fhd
 http://177.12.99.108:8000/play/a00j
 #EXTINF:-1,32 - Tv Justiça
 http://177.12.99.108:8000/play/a00w
@@ -73,11 +73,11 @@ http://177.12.99.108:8000/play/a00w
 http://177.12.99.108:8000/play/a007
 #EXTINF:-1,23 - Agro Canal
 http://177.12.99.108:8000/play/a00n
-#EXTINF:-1,25 - Tv Verdade
+#EXTINF:-1, Band Fhd
 http://177.12.99.108:8000/play/a00p
 #EXTINF:-1,TV Assembleia JP
 http://177.12.99.108:8000/play/a01r
-#EXTINF:-1,02 - TV Paraiba - ISDB-T
+#EXTINF:-1,Record News fhd
 http://177.12.99.108:8000/play/a001
 #EXTINF:-1,12 - Canção Nova
 http://177.12.99.108:8000/play/a00d
