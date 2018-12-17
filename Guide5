@@ -18,6 +18,7 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1,Rede Século 21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
+
 #EXTINF:-1, Record Tv
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
 
