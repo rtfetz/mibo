@@ -7,9 +7,6 @@ http://177.12.99.108:8000/play/a001
 #EXTINF:-1,RS21
 http://177.12.99.108:8000/play/a002
 
-#EXTINF:-1,Diário do Sertão
-http://177.12.99.108:8000/play/a003
-
 #EXTINF:-1,Band
 http://177.12.99.108:8000/play/a004
 
@@ -37,5 +34,27 @@ http://177.12.99.108:8000/play/a018
 #EXTINF:-1,RIT
 http://177.12.99.108:8000/play/a019
 
-#EXTINF:-1,20 seila
-http://177.12.99.108:8000/play/a020
+#EXTINF:-1,21
+http://177.12.99.108:8000/play/a021
+#EXTINF:-1,22
+http://177.12.99.108:8000/play/a022
+#EXTINF:-1,23
+http://177.12.99.108:8000/play/a023
+#EXTINF:-1,24
+http://177.12.99.108:8000/play/a024
+#EXTINF:-1,25
+http://177.12.99.108:8000/play/a025
+#EXTINF:-1,26
+http://177.12.99.108:8000/play/a026
+#EXTINF:-1,27
+http://177.12.99.108:8000/play/a027
+#EXTINF:-1,28
+http://177.12.99.108:8000/play/a028
+#EXTINF:-1,29
+http://177.12.99.108:8000/play/a029
+#EXTINF:-1,30
+http://177.12.99.108:8000/play/a030
+#EXTINF:-1,31
+http://177.12.99.108:8000/play/a031
+#EXTINF:-1,32
+http://177.12.99.108:8000/play/a032
