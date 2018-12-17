@@ -51,6 +51,11 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/58.m3u8
 #EXTINF:-1, Animal Planet
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/122.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",Animal Planet
+http://51.68.152.224:8080/AnimalPlanetHD/mpegts?token=cYW_L52030
+ 
+
+
 #EXTINF:-1, Discovery Channel
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/283.m3u8
 
