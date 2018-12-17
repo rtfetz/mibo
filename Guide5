@@ -3,21 +3,32 @@
 #EXTINF:-1,TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
+#EXTINF:-1, Tv Aparecida
+http://177.12.99.108:8000/play/a00n
+
 #EXTINF:-1,Rede Vida 
 http://177.12.99.108:8000/play/a006?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,TV Evangelizar
 http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 
+#EXTINF:-1,Tv Evangelizar
+http://177.12.99.108:8000/play/a00d
+
 #EXTINF:-1,Gospel Music TV 
 http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Canção Nova HD
+#EXTINF:-1,Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1,Canção Nova
+http://177.12.99.108:8000/play/a00j
 
 #EXTINF:-1,Rede Século 21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
+#EXTINF:-1,RS21
+http://177.12.99.108:8000/play/a002
 
 #EXTINF:-1, Record Tv
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
@@ -46,20 +57,11 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoRESTRITO/283.m3u8
 #EXTINF:-1, Tv Arapuan
 http://177.12.99.108:8000/play/a00r
 
-#EXTINF:-1,Canção Nova
-http://177.12.99.108:8000/play/a00j
-
-#EXTINF:-1, Aparecida
-http://177.12.99.108:8000/play/a00n
-
 #EXTINF:-1, Band
 http://177.12.99.108:8000/play/a00p
 
 #EXTINF:-1,Record News
 http://177.12.99.108:8000/play/a001
-
-#EXTINF:-1,Tv Evangelizar
-http://177.12.99.108:8000/play/a00d
 
 #EXTINF:-1,Band
 http://177.12.99.108:8000/play/a004
@@ -99,9 +101,6 @@ http://177.12.99.108:8000/play/a00k
 
 #EXTINF:-1, Tv Cultura
 http://177.12.99.108:8000/play/a00s
-
-#EXTINF:-1,RS21
-http://177.12.99.108:8000/play/a002
 
 #EXTINF:-1,RedeTv
 http://177.12.99.108:8000/play/a009
