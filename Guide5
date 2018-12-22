@@ -7,7 +7,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 http://177.12.99.108:8000/play/a00n
 
 #EXTINF:-1,Rede Vida 
-http://177.12.99.108:8000/play/a006?PEDROJUNIORTUTORIAIS
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1,TV Evangelizar
 http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
