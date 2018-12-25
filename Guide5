@@ -24,9 +24,6 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 #EXTINF:-1, Record Tv 
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
 
-#EXTINF:-1, Record Tv HD
-http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/173.m3u8
-
 #EXTINF:-1, Globo
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/189.m3u8
 
