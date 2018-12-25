@@ -18,17 +18,23 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1,Rede Século 21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
-
-
-
 #EXTINF:-1, Record Tv 
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
+
+#EXTINF:-1, Record
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/216.m3u8
+
+#EXTINF:-1, Record
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/217.m3u8
+
+#EXTINF:-1, Record
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/222.m3u8
 
 #EXTINF:-1, Globo
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/189.m3u8
 
-
-
+#EXTINF:-1, Globo
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/74.m3u8
 
 
 #EXTINF:-1, AXN
@@ -249,8 +255,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/72.m3u8
 #EXTINF:-1, GNT
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/73.m3u8
 
-#EXTINF:-1, Globo
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/74.m3u8
 
 #EXTINF:-1, Globo
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/76.m3u8
@@ -391,14 +395,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/207.m3u8
 #EXTINF:-1, Band
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/209.m3u8
 
-#EXTINF:-1, Record
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/216.m3u8
-
-#EXTINF:-1, Record Rs
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/217.m3u8
-
-#EXTINF:-1, Record
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/222.m3u8
 
 #EXTINF:-1, nsei
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/228.m3u8
