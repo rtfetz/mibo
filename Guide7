@@ -57,11 +57,38 @@ http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/100.m3u8
 #EXTINF:-1, History Channel
 http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/61.m3u8
 
-#EXTINF:-1 
-#EXTINF:-1 
-#EXTINF:-1 
-#EXTINF:-1 
-#EXTINF:-1 
+#EXTINF:-1, SporTV
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/76.m3u8
 
+#EXTINF:-1, SporTV 2
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/77.m3u8
 
+#EXTINF:-1, SporTV 3
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/73.m3u8
 
+#EXTINF:-1,Band Sports
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/164.m3u8
+
+#EXTINF:-1, Combate
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/157.m3u8
+
+#EXTINF:-1,ESPN
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/183.m3u8
+
+#EXTINF:-1,ESPN2
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/146.m3u8
+
+#EXTINF:-1,ESPN Brasil
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/181.m3u8
+
+#EXTINF:-1,ESPN Extra
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/182.m3u8
+
+#EXTINF:-1, Fox Sports
+http://54.39.53.38/live/I0HiBPLDKn/8bqMK5S2SF/133.m3u8
+
+#EXTINF:-1, Fox Sports 2
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
