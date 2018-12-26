@@ -132,39 +132,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/114.m3u8
 #EXTINF:-1, EI plus
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/207.m3u8
 
-#EXTINF:-1, Baby Tv
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/119.m3u8
-
-#EXTINF:-1, Boomerang
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/112.m3u8
-
-#EXTINF:-1, Cartoon Network
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/275.m3u8
-
-#EXTINF:-1, Discovery Kids
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/104.m3u8
-
-#EXTINF:-1, Disney
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/102.m3u8
-
-#EXTINF:-1, Disney Jr
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/101.m3u8
-
-#EXTINF:-1, Disney X
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/100.m3u8
-
-#EXTINF:-1, NatGeo Kids
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/57.m3u8
-
-#EXTINF:-1, Nick
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/53.m3u8
-
-#EXTINF:-1, NickJr
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/54.m3u8
-
-#EXTINF:-1, Tooncast
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/12.m3u8
-
 #EXTINF:-1, Space
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/25.m3u8
 
@@ -197,6 +164,39 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/277.m3u8
 
 #EXTINF:-1, Gloob
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/284.m3u8
+
+#EXTINF:-1, Baby Tv
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/119.m3u8
+
+#EXTINF:-1, Boomerang
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/112.m3u8
+
+#EXTINF:-1, Cartoon Network
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/275.m3u8
+
+#EXTINF:-1, Discovery Kids
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/104.m3u8
+
+#EXTINF:-1, Disney
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/102.m3u8
+
+#EXTINF:-1, Disney Jr
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/101.m3u8
+
+#EXTINF:-1, NatGeo Kids
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/57.m3u8
+
+#EXTINF:-1, Nick
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/53.m3u8
+
+#EXTINF:-1, NickJr
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/54.m3u8
+
+#EXTINF:-1, Disney X
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/100.m3u8
+
+#EXTINF:-1, Tooncast
+http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/12.m3u8
 
 #EXTINF:-1, Trapalhões 24h
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/299.m3u8
