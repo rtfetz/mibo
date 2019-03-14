@@ -12,42 +12,6 @@ http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 #EXTINF:-1,Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1,Rede Século 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
-
-#EXTINF:-1, Record Tv 
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
-
-#EXTINF:-1, Record
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/216.m3u8
-
-#EXTINF:-1, Record
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/217.m3u8
-
-#EXTINF:-1, Record
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/222.m3u8
-
-#EXTINF:-1, Globo
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/170.m3u8
-
-#EXTINF:-1, Globo
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/189.m3u8
-
-#EXTINF:-1, Globo
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/74.m3u8
-
-#EXTINF:-1, SBT
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/29.m3u8
-
-#EXTINF:-1, Band
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/118.m3u8
-
-#EXTINF:-1, Band
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/203.m3u8
-
-#EXTINF:-1, Band
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/209.m3u8
-
 #EXTINF:-1, Animal Planet
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/122.m3u8
 
@@ -58,7 +22,7 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/89.m3u8
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/329.m3u8
 
 #EXTINF:-1, Discovery Channel
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/283.m3u8
+http://188.165.221.28:25461/live/p3Lnk4IMSK/54jhFGB435DCs/917.m3u8
 
 #EXTINF:-1, NatGeo
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/56.m3u8
@@ -78,9 +42,6 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/174.m3u8
 #EXTINF:-1, SporTV3
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/21.m3u8
 
-#EXTINF:-1, SporTV3
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/22.m3u8
-
 #EXTINF:-1, SporTV2
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/23.m3u8
 
@@ -99,119 +60,14 @@ http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/84.m3u8
 #EXTINF:-1, ESPN
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/96.m3u8
 
-#EXTINF:-1, ESPN
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/281.m3u8
-
 #EXTINF:-1, ESPN Brasil
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/279.m3u8
-
-#EXTINF:-1, ESPN Brasil
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/280.m3u8
-
-#EXTINF:-1, ESPN Brasil
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/97.m3u8
-
-#EXTINF:-1, ESPN Brasil
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/98.m3u8
 
 #EXTINF:-1, ESPN2
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/99.m3u8
 
-#EXTINF:-1, ESPN2
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/278.m3u8
-
 #EXTINF:-1, Combate
 http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/106.m3u8
-
-#EXTINF:-1, Band Sports
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/114.m3u8
-
-#EXTINF:-1, EI plus
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/207.m3u8
-
-#EXTINF:-1, Space
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/25.m3u8
-
-#EXTINF:-1, TNT
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/13.m3u8
-
-#EXTINF:-1, TBS
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/19.m3u8
-
-#EXTINF:-1, SYFY
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/20.m3u8
-
-#EXTINF:-1, AMC
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/123.m3u8
-
-#EXTINF:-1, A&E
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/124.m3u8
-
-#EXTINF:-1, Fox Premium 2
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/173.m3u8
-
-#EXTINF:-1, MEGAPIX
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/59.m3u8
-
-#EXTINF:-1, Multishow
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/58.m3u8
-
-#EXTINF:-1, Comedy Central
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/277.m3u8
-
-#EXTINF:-1, Gloob
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/284.m3u8
-
-#EXTINF:-1, Baby Tv
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/119.m3u8
-
-#EXTINF:-1, Boomerang
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/112.m3u8
-
-#EXTINF:-1, Cartoon Network
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/275.m3u8
-
-#EXTINF:-1, Discovery Kids
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/104.m3u8
-
-#EXTINF:-1, Disney
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/102.m3u8
-
-#EXTINF:-1, Disney Jr
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/101.m3u8
-
-#EXTINF:-1, NatGeo Kids
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/57.m3u8
-
-#EXTINF:-1, Nick
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/53.m3u8
-
-#EXTINF:-1, NickJr
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/54.m3u8
-
-#EXTINF:-1, Disney X
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/100.m3u8
-
-#EXTINF:-1, Tooncast
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/12.m3u8
-
-#EXTINF:-1, Trapalhões 24h
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/299.m3u8
-
-#EXTINF:-1, The BigBang Theory 24h
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/304.m3u8
-
-#EXTINF:-1, Todo mundo Odeia Chris 24h
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/306.m3u8
-
-#EXTINF:-1, Macgyver 24h
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/309.m3u8
-
-#EXTINF:-1, Simpsons 24h
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/319.m3u8
-
-#EXTINF:-1, Um Maluco no Pedaço 24h
-http://144.217.181.63:25461/live/JCcENLAgQX/acessoCONTROLADO/324.m3u8
 
 
 
