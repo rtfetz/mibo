@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TV Aparecida
-https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8
 #EXTINF:-1,Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
@@ -17,7 +15,7 @@ https://live-trr.akamaized.net/hls/1198/trr_210107_102_.m3u8
 #EXTINF:-1, Missa pe Marcelo Rossi
 https://live-trr.akamaized.net:443/hls/1198/trr_210107_2628_.m3u8
 
-#EXTINF:-1,Canção Nova 2
+#EXTINF:-1,Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1, Fish TV
