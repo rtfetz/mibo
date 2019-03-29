@@ -42,6 +42,15 @@ http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/764.m3u8
 #EXTINF:-1, H2
 http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/840.m3u8
 
+#EXTINF:-1,Fox
+http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/891.m3u8
+
+#EXTINF:-1, Warner
+http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/750.m3u8
+
+#EXTINF:-1, Universal
+http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/755.m3u8
+
 #EXTINF:-1, SporTV3
 http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/782.m3u8
 
