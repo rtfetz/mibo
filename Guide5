@@ -22,13 +22,11 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1566762538/ei/
 #EXTINF:-1, Globo HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_12418656168080d25064b871b5f6c5716b631d89/playlist.m3u8
 
-
-
 #EXTINF:-1, Sportv 2
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_d0d1bf756259209b226268372127cf409a4ba939.m3u8
 
-
-
+#EXTINF:-1, Sportv 3
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/sportv3_e1a864f0_38b35968874346565d157c1a2393fd4190d2405e.m3u8
 
 #EXTINF:-1, Fish TV
 http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/894.m3u8
