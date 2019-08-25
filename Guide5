@@ -24,8 +24,11 @@ http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_12418656168
 
 
 
-#EXTINF:-1, Globo SP
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosp_cfe21c68_c0ef7319017258202cdc0da2bc5b1f68115eb4a8/playlist.m3u8
+#EXTINF:-1, Sportv 2
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_d0d1bf756259209b226268372127cf409a4ba939.m3u8
+
+
+
 
 #EXTINF:-1, Fish TV
 http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/894.m3u8
