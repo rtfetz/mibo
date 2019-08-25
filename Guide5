@@ -21,6 +21,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1566762538/ei/
 #EXTINF:-1. Animal Planet
 https://tvweb.xyz:25463/live/Kashima/Antas/101.m3u8
 
+#EXTINF:-1, Animal Planet kk
+https://tvweb.xyz:25463/live/Kashima/Antas/101.m3u8
 
 #EXTINF:-1, Globo HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_12418656168080d25064b871b5f6c5716b631d89/playlist.m3u8
