@@ -20,6 +20,8 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1566762538/ei/ypFiXauLMtjoxwTTz5q4Aw/ip/177.34.129.233/id/yA6p6m-l2VQ.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r3---sn-xhcg5uxa-jfce.googlevideo.com/playlist_type/DVR/initcwndbps/6700/mm/44/mn/sn-xhcg5uxa-jfce/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1566742582/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIgToCXj5xBkuDG_4P6ssYJNT_TQklIHURabQExxgby02cCIQDMh9yopjJcbzi9KB5GwIgDyIZv03Y30j2K5a52AF6qSA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgbe0uTOkZrKceZSdwwotqtA5JlD874Py_Zdbe7qo5ACoCIQD1k38XiSTgDlzq8HpjZEKrMT7mGRaV_Ofs4qO7UFMdlw%3D%3D/playlist/index.m3u8
 
 
+#EXTINF:-1, Globo SP
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosp_cfe21c68_c0ef7319017258202cdc0da2bc5b1f68115eb4a8/playlist.m3u8
 
 #EXTINF:-1, Fish TV
 http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/894.m3u8
