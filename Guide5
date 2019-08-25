@@ -12,7 +12,6 @@ http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 #EXTINF:-1, Missa Marcelo Rossi
 https://live-trr.akamaized.net:443/hls/1198/trr_230118_2628_.m3u8
 
-
 #EXTINF:-1,Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
@@ -30,69 +29,4 @@ http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_d0d1bf7
 
 #EXTINF:-1, Sportv 3
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/sportv3_e1a864f0_38b35968874346565d157c1a2393fd4190d2405e.m3u8
-
-#EXTINF:-1, Fish TV
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/894.m3u8
-
-#EXTINF:-1, Animal Planet
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/945.m3u8
-
-#EXTINF:-1, Discovery H&H
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/915.m3u8
-
-#EXTINF:-1, Discovery Turbo
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/913.m3u8
-
-#EXTINF:-1, Discovery Channel
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/917.m3u8
-
-#EXTINF:-1, Discovery ID
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/839.m3u8
-
-#EXTINF:-1, History
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/764.m3u8
-
-#EXTINF:-1, H2
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/840.m3u8
-
-#EXTINF:-1,Fox
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/891.m3u8
-
-#EXTINF:-1, Warner
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/750.m3u8
-
-#EXTINF:-1, Universal
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/755.m3u8
-
-#EXTINF:-1, SporTV3
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/782.m3u8
-
-#EXTINF:-1, SporTV2
-http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/785.m3u8
-
-#EXTINF:-1, SporTV
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/779.m3u8
-
-#EXTINF:-1, Fox Sports
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/887.m3u8
-
-#EXTINF:-1, Fox Sports 2
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/889.m3u8
-
-#EXTINF:-1, ESPN Extra
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/896.m3u8
-
-#EXTINF:-1, ESPN Brasil
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/898.m3u8
-
-#EXTINF:-1, ESPN
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/902.m3u8
-
-#EXTINF:-1, ESPN2
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/900.m3u8
-
-#EXTINF:-1, Combate
-http://188.165.221.28:25461/live/657hkjbQWS4fgsd/D21VGdce58Gb/921.m3u8
-
-
 
