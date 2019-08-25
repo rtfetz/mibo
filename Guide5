@@ -16,8 +16,9 @@ https://live-trr.akamaized.net:443/hls/1198/trr_230118_2628_.m3u8
 #EXTINF:-1,Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1, Rede Vida2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1566762538/ei/ypFiXauLMtjoxwTTz5q4Aw/ip/177.34.129.233/id/yA6p6m-l2VQ.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-xhcg5uxa-jfce.googlevideo.com/playlist_type/DVR/initcwndbps/6400/mm/44/mn/sn-xhcg5uxa-jfce/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1566740839/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgE4ozXo6RfajAsGtC-1_3vSIzfAacoaIshepSjro115YCICjfIfEMCiLrKFyxGn6KTdBahgrsRC12T26NbEAgiXb-/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRgIhAK_-izgKuV0R_xAUA46TNvJKddOfMdSSM2fxvCgkD8ELAiEApArsivdgo3Dcu3gQ2nic94giZIGN6o6TAxAZILH-gaA%3D/playlist/index.m3u8ttp://188.165.221.28:25461/live/794WebDe1u31su/k2bktnNXJ29r/794.m3u8
+#EXTINF:-1, Frei
+https://r1---sn-xhcg5uxa-jfcl.googlevideo.com/videoplayback?expire=1566760278&ei=9ohiXcafKNTA8wLH4ZnABg&ip=177.34.129.233&id=o-ACds4mwraLPyCgOsiN1HXxWAY6uIZ1BcW5trPTh3YEie&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-xhcg5uxa-jfcl%2Csn-gpv7dn7e&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=947500&mime=video%2Fmp4&gir=yes&clen=41419973&ratebypass=yes&dur=828.929&lmt=1559908824274338&mt=1566738577&fvip=1&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgGBv1DK8_dfWkUBk-8TO8M765gUyBKOmK_3R8fpjn3vgCIQDmhhHY0w2D1-ozQ_DoO4dpjkVfk5I93QsO1vvqsVrqPA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAMxI5e7JzRQ6Mxi4263M0ZXi2zmNcH4iHXVO2kQUnoWLAiEA6kW8n97yv8Ah_zty60hL2mLrWEC143h1AeXw2t0kZZs%3D
+
 
 #EXTINF:-1, Fish TV
 http://188.165.221.28:25461/live/p3Lnk4IMSK/K5HbXGXxhghVUxR/894.m3u8
