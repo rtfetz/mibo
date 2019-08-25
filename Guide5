@@ -18,10 +18,10 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1, Rede Vida 2
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1566762538/ei/ypFiXauLMtjoxwTTz5q4Aw/ip/177.34.129.233/id/yA6p6m-l2VQ.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r3---sn-xhcg5uxa-jfce.googlevideo.com/playlist_type/DVR/initcwndbps/6700/mm/44/mn/sn-xhcg5uxa-jfce/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1566742582/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRQIgToCXj5xBkuDG_4P6ssYJNT_TQklIHURabQExxgby02cCIQDMh9yopjJcbzi9KB5GwIgDyIZv03Y30j2K5a52AF6qSA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgbe0uTOkZrKceZSdwwotqtA5JlD874Py_Zdbe7qo5ACoCIQD1k38XiSTgDlzq8HpjZEKrMT7mGRaV_Ofs4qO7UFMdlw%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1. Animal Planet
-https://tvweb.xyz:25463/live/Kashima/Antas/101.m3u8
+#EXTINF:-1, Acústico Frei Gilson
+https://r1---sn-oxunxg8pjvn-wvpe.googlevideo.com/videoplayback?expire=1566768698&ei=2qliXc24E8aexwSa_YCoBg&ip=177.34.129.233&id=o-AIfBDUN5Uble_tb2BhxSD2LMO58J6Htt2VP1s00rx84G&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-oxunxg8pjvn-wvpe%2Csn-gpv7dn7s&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=651250&mime=video%2Fmp4&gir=yes&clen=664680759&ratebypass=yes&dur=8762.909&lmt=1548698780978100&mt=1566746980&fvip=5&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRgIhAM9zhedr81GhbvSEXqfJSisovLoUbJv5M097kynnQfpEAiEAyiDuFNAXqP-7O2sKSu7nQZMMuPLQqfz44EgkmFn3NVg%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgHDIGrTPm1An-EZdVORAy8Tv_KitYtkq4tIIpPC1Ul_kCIHh_yGUplIMp4xrbJVDywGoy1Ja3rx1Vi8GbWVro9Yxx
 
-#EXTINF:-1, Animal Planet kk
+#EXTINF:-1, Animal Planet
 https://tvweb.xyz:25463/live/Kashima/Antas/101.m3u8
 
 #EXTINF:-1, Globo HD
