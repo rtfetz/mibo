@@ -9,6 +9,9 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1,TV Evangelizar
 https://5f593df7851db.streamlock.net:443/evangelizar/tv/chunklist_w495178215.m3u8
 
+#EXTINF:-1, Tv Evangelizar Maringá
+https://5829cb6b64c3c.streamlock.net:443/id2252/id2252/chunklist_w1321132282.m3u8
+
 #EXTINF:-1, Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
