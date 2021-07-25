@@ -21,19 +21,5 @@ https://streamer-a03.videos.sapo.pt:443/live/santuario/chunklist_w1748470151.m3u
 #EXTINF:-1, Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1, TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1, SporTV 2
-http://212.224.98.210:2200/BR/Sportv_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-
-#EXTINF:-1, Fox
-http://212.224.98.210:2200/BR/Fox_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-
 #EXTINF:-1, Tv Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1100723218.m3u8
-
-
-
-
-
