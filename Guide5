@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Tv Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,Rede Vida 
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
@@ -9,11 +9,8 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1,TV Evangelizar
 https://5f593df7851db.streamlock.net:443/evangelizar/tv/chunklist_w495178215.m3u8
 
-#EXTINF:-1,TV Evangelizar2
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-
-#EXTINF:-1, Tv Evangelizar3
-https://5829cb6b64c3c.streamlock.net/id2252/id2252/playlist.m3u8
+#EXTINF:-1, TvEvangelizar
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1, Capela Guadalupe ao Vivo
 https://5953e7f9ae845.streamlock.net:443/evangelizarmovel/evangelizarmovel/chunklist_w1142068993.m3u8
@@ -21,11 +18,17 @@ https://5953e7f9ae845.streamlock.net:443/evangelizarmovel/evangelizarmovel/chunk
 #EXTINF:-1, Santuário de Fátima ao Vivo
 https://streamer-a03.videos.sapo.pt:443/live/santuario/chunklist_w1748470151.m3u8
 
-#EXTINF:-1,TV Medjugorje
-http://146.185.16.10:1935/clive/spanish/playlist.m3u8
+#EXTINF:-1, Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1, Canção Nova
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1, TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1, SporTV 2
+http://212.224.98.210:2200/BR/Sportv_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1, Fox
+http://212.224.98.210:2200/BR/Fox_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
 
 #EXTINF:-1, Tv Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1100723218.m3u8
