@@ -24,8 +24,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1, Tv Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1100723218.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Religiosos",Gospel Movies Television
+#EXTINF:-1 tvg-id="gospel" tvg-logo="" group-title="Religiosos",Gospel Movies Television
 http://stmv1.srvstm.com:1935/gospelf2/gospelf2/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Religiosos",Gospel Music Television
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religiosos",Gospel Music Television
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
