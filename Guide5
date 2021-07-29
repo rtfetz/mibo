@@ -3,7 +3,7 @@
 #EXTINF:-1,Tv Aparecida
 http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Rede Vida 
+#EXTINF:-1,Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1,TV Evangelizar
@@ -12,8 +12,8 @@ https://5f593df7851db.streamlock.net:443/evangelizar/tv/chunklist_w495178215.m3u
 #EXTINF:-1, TvEvangelizar
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
-#EXTINF:-1, Capela Guadalupe ao Vivo
-https://5953e7f9ae845.streamlock.net:443/evangelizarmovel/evangelizarmovel/chunklist_w1142068993.m3u8
+#EXTINF:-1, Rede Século 21
+https://cdn.jmvstream.com:443/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b3203072.m3u8
 
 #EXTINF:-1, Santuário de Fátima ao Vivo
 https://streamer-a03.videos.sapo.pt:443/live/santuario/chunklist_w1748470151.m3u8
